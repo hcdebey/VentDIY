@@ -1,0 +1,3476 @@
+8:5:43  Inhale / Exhale times have changed.
+8:5:43  val here =  82
+8:5:43  After the while
+8:5:43  Going to Motor End
+8:5:43  cycle_count = 0
+8:5:44  36 _duration_time = 1082
+8:5:44  36 -overshoot_counter = 0
+8:5:44  
+8:5:44  Cycles =   326750
+8:5:46  Going to Hose End
+8:5:46  cycle_count = 0
+8:5:46  39 _duration_time = 404
+8:5:46  39 -overshoot_counter = 0
+8:5:46  
+8:5:46  Cycles =   326751
+8:5:48  Going to Motor End
+8:5:48  cycle_count = 1
+8:5:48  36 _duration_time = 491
+8:5:48  36 -overshoot_counter = 0
+8:5:48  
+8:5:48  Cycles =   326751
+8:5:51  Going to Hose End
+8:5:51  cycle_count = 1
+8:5:51  39 _duration_time = 395
+8:5:51  39 -overshoot_counter = 0
+8:5:51  
+8:5:51  Cycles =   326752
+8:5:53  Going to Motor End
+8:5:53  cycle_count = 2
+8:5:53  36 _duration_time = 490
+8:5:53  36 -overshoot_counter = 0
+8:5:53  
+8:5:53  Cycles =   326752
+8:5:56  Going to Hose End
+8:5:56  cycle_count = 2
+8:5:56  39 _duration_time = 404
+8:5:56  39 -overshoot_counter = 0
+8:5:56  
+8:5:56  Cycles =   326753
+8:5:58  Going to Motor End
+8:5:58  cycle_count = 3
+8:5:58  36 _duration_time = 501
+8:5:58  36 -average = 494
+8:5:58  36 -overshoot_counter = 0
+8:5:58  
+8:5:58  Cycles =   326753
+8:6:1  Going to Hose End
+8:6:1  cycle_count = 3
+8:6:1  39 _duration_time = 414
+8:6:1  39 -average = 404
+8:6:1  39 -overshoot_counter = 0
+8:6:1  
+8:6:1  Cycles =   326754
+8:6:3  Going to Motor End
+8:6:3  cycle_count = 4
+8:6:3  36 _duration_time = 496
+8:6:3  36 -average = 495
+8:6:3  36 -overshoot_counter = 0
+8:6:3  
+8:6:3  Cycles =   326754
+8:6:6  Going to Hose End
+8:6:6  cycle_count = 4
+8:6:6  39 _duration_time = 408
+8:6:6  39 -average = 408
+8:6:6  39 -overshoot_counter = 0
+8:6:6  
+8:6:6  Cycles =   326755
+8:6:8  Going to Motor End
+8:6:8  cycle_count = 5
+8:6:8  36 _duration_time = 494
+8:6:8  36 -average = 497
+8:6:8  36 -overshoot_counter = 0
+8:6:8  
+8:6:8  Cycles =   326755
+8:6:11  Going to Hose End
+8:6:11  cycle_count = 5
+8:6:11  39 _duration_time = 407
+8:6:11  39 -average = 409
+8:6:11  39 -overshoot_counter = 0
+8:6:11  
+8:6:11  Cycles =   326756
+8:6:13  Going to Motor End
+8:6:13  cycle_count = 6
+8:6:13  36 _duration_time = 491
+8:6:13  36 -average = 493
+8:6:13  36 -overshoot_counter = 0
+8:6:13  
+8:6:13  Cycles =   326756
+8:6:16  Going to Hose End
+8:6:16  cycle_count = 6
+8:6:16  39 _duration_time = 412
+8:6:16  39 -average = 409
+8:6:16  39 -overshoot_counter = 0
+8:6:16  
+8:6:16  Cycles =   326757
+8:6:18  Going to Motor End
+8:6:18  cycle_count = 7
+8:6:18  36 _duration_time = 496
+8:6:18  36 -average = 493
+8:6:18  36 -overshoot_counter = 0
+8:6:18  
+8:6:18  Cycles =   326757
+8:6:21  Going to Hose End
+8:6:21  cycle_count = 7
+8:6:21  39 _duration_time = 408
+8:6:21  39 -average = 409
+8:6:21  39 -overshoot_counter = 0
+8:6:21  
+8:6:21  Cycles =   326758
+8:6:23  Going to Motor End
+8:6:23  cycle_count = 8
+8:6:23  36 _duration_time = 510
+8:6:23  36 -average = 499
+8:6:23  36 -overshoot_counter = 0
+8:6:23  
+8:6:23  Cycles =   326758
+8:6:26  Going to Hose End
+8:6:26  cycle_count = 8
+8:6:26  39 _duration_time = 407
+8:6:26  39 -average = 409
+8:6:26  39 -overshoot_counter = 0
+8:6:26  
+8:6:26  Cycles =   326759
+8:6:28  Going to Motor End
+8:6:28  cycle_count = 9
+8:6:28  36 _duration_time = 517
+8:6:28  36 -average = 507
+8:6:28  36 -overshoot_counter = 0
+8:6:28  
+8:6:28  Cycles =   326759
+8:6:31  Going to Hose End
+8:6:31  cycle_count = 9
+8:6:31  39 _duration_time = 418
+8:6:31  39 -average = 411
+8:6:31  39 -overshoot_counter = 0
+8:6:31  
+8:6:31  Cycles =   326760
+8:6:33  Going to Motor End
+8:6:33  cycle_count = 10
+8:6:33  36 _duration_time = 495
+8:6:33  36 -average = 507
+8:6:33  36 -overshoot_counter = 0
+8:6:33  
+8:6:33  Cycles =   326760
+8:6:36  Going to Hose End
+8:6:36  cycle_count = 10
+8:6:36  39 _duration_time = 416
+8:6:36  39 -average = 413
+8:6:36  39 -overshoot_counter = 0
+8:6:36  
+8:6:36  Cycles =   326761
+8:6:38  Going to Motor End
+8:6:38  cycle_count = 11
+8:6:38  36 _duration_time = 491
+8:6:38  36 -average = 501
+8:6:38  36 -overshoot_counter = 0
+8:6:38  
+8:6:38  Cycles =   326761
+8:6:41  Going to Hose End
+8:6:41  cycle_count = 11
+8:6:41  39 _duration_time = 410
+8:6:41  39 -average = 414
+8:6:41  39 -overshoot_counter = 0
+8:6:41  
+8:6:41  Cycles =   326762
+8:6:43  Going to Motor End
+8:6:43  cycle_count = 12
+8:6:43  36 _duration_time = 485
+8:6:43  36 -average = 490
+8:6:43  36 -overshoot_counter = 0
+8:6:43  
+8:6:43  Cycles =   326762
+8:6:46  Going to Hose End
+8:6:46  cycle_count = 12
+8:6:46  39 _duration_time = 422
+8:6:46  39 -average = 416
+8:6:46  39 -overshoot_counter = 0
+8:6:46  
+8:6:46  Cycles =   326763
+8:6:48  Going to Motor End
+8:6:48  cycle_count = 13
+8:6:48  36 _duration_time = 495
+8:6:48  36 -average = 490
+8:6:48  36 -overshoot_counter = 0
+8:6:48  
+8:6:48  Cycles =   326763
+8:6:51  Going to Hose End
+8:6:51  cycle_count = 13
+8:6:51  39 _duration_time = 427
+8:6:51  39 -average = 419
+8:6:51  39 -overshoot_counter = 0
+8:6:51  
+8:6:51  Cycles =   326764
+8:6:53  Going to Motor End
+8:6:53  cycle_count = 14
+8:6:53  36 _duration_time = 498
+8:6:53  36 -average = 492
+8:6:53  36 -overshoot_counter = 0
+8:6:53  
+8:6:53  Cycles =   326764
+8:6:56  Going to Hose End
+8:6:56  cycle_count = 14
+8:6:56  39 _duration_time = 426
+8:6:56  39 -average = 425
+8:6:56  39 -overshoot_counter = 0
+8:6:56  
+8:6:56  Cycles =   326765
+8:6:58  Going to Motor End
+8:6:58  cycle_count = 15
+8:6:58  36 _duration_time = 495
+8:6:58  36 -average = 496
+8:6:58  36 -overshoot_counter = 0
+8:6:58  
+8:6:58  Cycles =   326765
+8:7:1  Going to Hose End
+8:7:1  cycle_count = 15
+8:7:1  39 _duration_time = 415
+8:7:1  39 -average = 422
+8:7:1  39 -overshoot_counter = 0
+8:7:1  
+8:7:1  Cycles =   326766
+8:7:3  Going to Motor End
+8:7:3  cycle_count = 16
+8:7:3  36 _duration_time = 498
+8:7:3  36 -average = 497
+8:7:3  36 -overshoot_counter = 0
+8:7:3  
+8:7:3  Cycles =   326766
+8:7:6  Going to Hose End
+8:7:6  cycle_count = 16
+8:7:6  39 _duration_time = 433
+8:7:6  39 -average = 424
+8:7:6  39 -overshoot_counter = 0
+8:7:6  
+8:7:6  Cycles =   326767
+8:7:8  Going to Motor End
+8:7:8  cycle_count = 17
+8:7:8  36 _duration_time = 494
+8:7:8  36 -average = 495
+8:7:8  36 -overshoot_counter = 0
+8:7:8  
+8:7:8  Cycles =   326767
+8:7:11  Going to Hose End
+8:7:11  cycle_count = 17
+8:7:11  39 _duration_time = 414
+8:7:11  39 -average = 420
+8:7:11  39 -overshoot_counter = 0
+8:7:11  
+8:7:11  Cycles =   326768
+8:7:13  Going to Motor End
+8:7:13  cycle_count = 18
+8:7:13  36 _duration_time = 499
+8:7:13  36 -average = 497
+8:7:13  36 -overshoot_counter = 0
+8:7:13  
+8:7:13  Cycles =   326768
+8:7:16  Going to Hose End
+8:7:16  cycle_count = 18
+8:7:16  39 Time too long at 463. Average is 420 -overshoot_counter = 1
+8:7:16  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:7:16  Cycles =   326769
+8:7:18  Going to Motor End
+8:7:18  cycle_count = 19
+8:7:18  36 _duration_time = 508
+8:7:18  36 -average = 500
+8:7:18  36 -overshoot_counter = 0
+8:7:18  
+8:7:18  Cycles =   326769
+8:7:21  Going to Hose End
+8:7:21  cycle_count = 19
+8:7:21  39 Time too long at 463. Average is 420 -overshoot_counter = 2
+8:7:21  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:7:21  Cycles =   326770
+8:7:23  Going to Motor End
+8:7:23  cycle_count = 20
+8:7:23  36 _duration_time = 524
+8:7:23  36 -average = 510
+8:7:23  36 -overshoot_counter = 0
+8:7:23  
+8:7:23  Cycles =   326770
+8:7:26  Going to Hose End
+8:7:26  cycle_count = 20
+8:7:26  39 Time too long at 463. Average is 420 -overshoot_counter = 3
+8:7:26  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:7:26  Cycles =   326771
+8:7:28  Going to Motor End
+8:7:28  cycle_count = 21
+8:7:28  36 _duration_time = 509
+8:7:28  36 -average = 513
+8:7:28  36 -overshoot_counter = 0
+8:7:28  
+8:7:28  Cycles =   326771
+8:7:31  Going to Hose End
+8:7:31  cycle_count = 21
+8:7:31  39 Time too long at 463. Average is 420 -overshoot_counter = 4
+8:7:31  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:7:31  Cycles =   326772
+8:7:33  Going to Motor End
+8:7:33  cycle_count = 22
+8:7:33  36 _duration_time = 523
+8:7:33  36 -average = 518
+8:7:33  36 -overshoot_counter = 0
+8:7:33  
+8:7:33  Cycles =   326772
+8:7:36  Going to Hose End
+8:7:36  cycle_count = 22
+8:7:36  39 Time too long at 463. Average is 420 -overshoot_counter = 5
+8:7:36  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:7:36  Cycles =   326773
+8:7:38  Going to Motor End
+8:7:38  cycle_count = 23
+8:7:38  36 _duration_time = 544
+8:7:38  36 -average = 525
+8:7:38  36 -overshoot_counter = 0
+8:7:38  
+8:7:38  Cycles =   326773
+8:7:41  Going to Hose End
+8:7:41  cycle_count = 23
+8:7:41  39 _duration_time = 421
+8:7:41  39 -average = 422
+8:7:41  39 -overshoot_counter = 5
+8:7:41  
+8:7:41  Cycles =   326774
+8:7:43  Going to Motor End
+8:7:43  cycle_count = 24
+8:7:43  36 _duration_time = 495
+8:7:43  36 -average = 520
+8:7:43  36 -overshoot_counter = 0
+8:7:43  
+8:7:43  Cycles =   326774
+8:7:46  Going to Hose End
+8:7:46  cycle_count = 24
+8:7:46  39 _duration_time = 427
+8:7:46  39 -average = 420
+8:7:46  39 -overshoot_counter = 5
+8:7:46  
+8:7:46  Cycles =   326775
+8:7:48  Going to Motor End
+8:7:48  cycle_count = 25
+8:7:48  36 _duration_time = 498
+8:7:48  36 -average = 512
+8:7:48  36 -overshoot_counter = 0
+8:7:48  
+8:7:48  Cycles =   326775
+8:7:51  Going to Hose End
+8:7:51  cycle_count = 25
+8:7:51  39 _duration_time = 432
+8:7:51  39 -average = 426
+8:7:51  39 -overshoot_counter = 5
+8:7:51  
+8:7:51  Cycles =   326776
+8:7:53  Going to Motor End
+8:7:53  cycle_count = 26
+8:7:53  36 _duration_time = 494
+8:7:53  36 -average = 495
+8:7:53  36 -overshoot_counter = 0
+8:7:53  
+8:7:53  Cycles =   326776
+8:7:56  Going to Hose End
+8:7:56  cycle_count = 26
+8:7:56  39 _duration_time = 431
+8:7:56  39 -average = 430
+8:7:56  39 -overshoot_counter = 5
+8:7:56  
+8:7:56  Cycles =   326777
+8:7:58  Going to Motor End
+8:7:58  cycle_count = 27
+8:7:58  36 _duration_time = 496
+8:7:58  36 -average = 496
+8:7:58  36 -overshoot_counter = 0
+8:7:58  
+8:7:58  Cycles =   326777
+8:8:1  Going to Hose End
+8:8:1  cycle_count = 27
+8:8:1  39 _duration_time = 430
+8:8:1  39 -average = 431
+8:8:1  39 -overshoot_counter = 5
+8:8:1  
+8:8:1  Cycles =   326778
+8:8:3  Going to Motor End
+8:8:3  cycle_count = 28
+8:8:3  36 _duration_time = 494
+8:8:3  36 -average = 494
+8:8:3  36 -overshoot_counter = 0
+8:8:3  
+8:8:3  Cycles =   326778
+8:8:6  Going to Hose End
+8:8:6  cycle_count = 28
+8:8:6  39 _duration_time = 433
+8:8:6  39 -average = 431
+8:8:6  39 -overshoot_counter = 5
+8:8:6  
+8:8:6  Cycles =   326779
+8:8:8  Going to Motor End
+8:8:8  cycle_count = 29
+8:8:8  36 _duration_time = 496
+8:8:8  36 -average = 495
+8:8:8  36 -overshoot_counter = 0
+8:8:8  
+8:8:8  Cycles =   326779
+8:8:11  Going to Hose End
+8:8:11  cycle_count = 29
+8:8:11  39 _duration_time = 426
+8:8:11  39 -average = 429
+8:8:11  39 -overshoot_counter = 5
+8:8:11  
+8:8:11  Cycles =   326780
+8:8:13  Going to Motor End
+8:8:13  cycle_count = 30
+8:8:13  36 _duration_time = 499
+8:8:13  36 -average = 496
+8:8:13  36 -overshoot_counter = 0
+8:8:13  
+8:8:13  Cycles =   326780
+8:8:16  Going to Hose End
+8:8:16  cycle_count = 30
+8:8:16  39 _duration_time = 432
+8:8:16  39 -average = 430
+8:8:16  39 -overshoot_counter = 5
+8:8:16  
+8:8:16  Cycles =   326781
+8:8:18  Going to Motor End
+8:8:18  cycle_count = 31
+8:8:18  36 _duration_time = 499
+8:8:18  36 -average = 498
+8:8:18  36 -overshoot_counter = 0
+8:8:18  
+8:8:18  Cycles =   326781
+8:8:21  Going to Hose End
+8:8:21  cycle_count = 31
+8:8:21  39 _duration_time = 430
+8:8:21  39 -average = 429
+8:8:21  39 -overshoot_counter = 5
+8:8:21  
+8:8:21  Cycles =   326782
+8:8:23  Going to Motor End
+8:8:23  cycle_count = 32
+8:8:23  36 _duration_time = 498
+8:8:23  36 -average = 498
+8:8:23  36 -overshoot_counter = 0
+8:8:23  
+8:8:23  Cycles =   326782
+8:8:26  Going to Hose End
+8:8:26  cycle_count = 32
+8:8:26  39 _duration_time = 417
+8:8:26  39 -average = 426
+8:8:26  39 -overshoot_counter = 5
+8:8:26  
+8:8:26  Cycles =   326783
+8:8:28  Going to Motor End
+8:8:28  cycle_count = 33
+8:8:28  36 _duration_time = 516
+8:8:28  36 -average = 504
+8:8:28  36 -overshoot_counter = 0
+8:8:28  
+8:8:28  Cycles =   326783
+8:8:31  Going to Hose End
+8:8:31  cycle_count = 33
+8:8:31  39 _duration_time = 434
+8:8:31  39 -average = 427
+8:8:31  39 -overshoot_counter = 5
+8:8:31  
+8:8:31  Cycles =   326784
+8:8:33  Going to Motor End
+8:8:33  cycle_count = 34
+8:8:33  36 _duration_time = 491
+8:8:33  36 -average = 501
+8:8:33  36 -overshoot_counter = 0
+8:8:33  
+8:8:33  Cycles =   326784
+8:8:36  Going to Hose End
+8:8:36  cycle_count = 34
+8:8:36  39 _duration_time = 422
+8:8:36  39 -average = 424
+8:8:36  39 -overshoot_counter = 5
+8:8:36  
+8:8:36  Cycles =   326785
+8:8:38  Going to Motor End
+8:8:38  cycle_count = 35
+8:8:38  36 _duration_time = 491
+8:8:38  36 -average = 499
+8:8:38  36 -overshoot_counter = 0
+8:8:38  
+8:8:38  Cycles =   326785
+8:8:41  Going to Hose End
+8:8:41  cycle_count = 35
+8:8:41  39 Time too long at 467. Average is 424 -overshoot_counter = 6
+8:8:41  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:8:41  Cycles =   326786
+8:8:43  Going to Motor End
+8:8:43  cycle_count = 36
+8:8:43  36 _duration_time = 524
+8:8:43  36 -average = 502
+8:8:43  36 -overshoot_counter = 0
+8:8:43  
+8:8:43  Cycles =   326786
+8:8:46  Going to Hose End
+8:8:46  cycle_count = 36
+8:8:46  39 _duration_time = 458
+8:8:46  39 -average = 438
+8:8:46  39 -overshoot_counter = 6
+8:8:46  
+8:8:46  Cycles =   326787
+8:8:48  Going to Motor End
+8:8:48  cycle_count = 37
+8:8:48  36 _duration_time = 494
+8:8:48  36 -average = 503
+8:8:48  36 -overshoot_counter = 0
+8:8:48  
+8:8:48  Cycles =   326787
+8:8:51  Going to Hose End
+8:8:51  cycle_count = 37
+8:8:51  39 _duration_time = 436
+8:8:51  39 -average = 438
+8:8:51  39 -overshoot_counter = 6
+8:8:51  
+8:8:51  Cycles =   326788
+8:8:53  Going to Motor End
+8:8:53  cycle_count = 38
+8:8:53  36 _duration_time = 494
+8:8:53  36 -average = 504
+8:8:53  36 -overshoot_counter = 0
+8:8:53  
+8:8:53  Cycles =   326788
+8:8:56  Going to Hose End
+8:8:56  cycle_count = 38
+8:8:56  39 _duration_time = 433
+8:8:56  39 -average = 442
+8:8:56  39 -overshoot_counter = 6
+8:8:56  
+8:8:56  Cycles =   326789
+8:8:58  Going to Motor End
+8:8:58  cycle_count = 39
+8:8:58  36 _duration_time = 496
+8:8:58  36 -average = 494
+8:8:58  36 -overshoot_counter = 0
+8:8:58  
+8:8:58  Cycles =   326789
+8:9:1  Going to Hose End
+8:9:1  cycle_count = 39
+8:9:1  39 _duration_time = 427
+8:9:1  39 -average = 432
+8:9:1  39 -overshoot_counter = 6
+8:9:1  
+8:9:1  Cycles =   326790
+8:9:3  Going to Motor End
+8:9:3  cycle_count = 40
+8:9:3  36 _duration_time = 492
+8:9:3  36 -average = 494
+8:9:3  36 -overshoot_counter = 0
+8:9:3  
+8:9:3  Cycles =   326790
+8:9:6  Going to Hose End
+8:9:6  cycle_count = 40
+8:9:6  39 _duration_time = 428
+8:9:6  39 -average = 429
+8:9:6  39 -overshoot_counter = 6
+8:9:6  
+8:9:6  Cycles =   326791
+8:9:8  Going to Motor End
+8:9:8  cycle_count = 41
+8:9:8  36 Time too long at 544. Average is 494 -overshoot_counter = 1
+8:9:8  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:9:8  Cycles =   326791
+8:9:11  Going to Hose End
+8:9:11  cycle_count = 41
+8:9:11  39 _duration_time = 2
+8:9:11  39 -average = 285
+8:9:11  39 -overshoot_counter = 6
+8:9:11  
+8:9:11  Cycles =   326792
+8:9:13  Going to Motor End
+8:9:13  cycle_count = 42
+8:9:13  36 Time too long at 544. Average is 494 -overshoot_counter = 2
+8:9:13  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:9:13  Cycles =   326792
+8:9:16  Going to Hose End
+8:9:16  cycle_count = 42
+8:9:16  39 _duration_time = 2
+8:9:16  39 -average = 144
+8:9:16  39 -overshoot_counter = 6
+8:9:16  
+8:9:16  Cycles =   326793
+8:9:18  Going to Motor End
+8:9:18  cycle_count = 43
+8:9:18  36 Time too long at 544. Average is 494 -overshoot_counter = 3
+8:9:18  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:9:18  Cycles =   326793
+8:9:21  Going to Hose End
+8:9:21  cycle_count = 43
+8:9:21  39 _duration_time = 3
+8:9:21  39 -average = 2
+8:9:21  39 -overshoot_counter = 6
+8:9:21  
+8:9:21  Cycles =   326794
+8:9:23  Going to Motor End
+8:9:23  cycle_count = 44
+8:9:23  36 Time too long at 544. Average is 494 -overshoot_counter = 4
+8:9:23  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:9:23  Cycles =   326794
+8:9:26  Going to Hose End
+8:9:26  cycle_count = 44
+8:9:26  39 Time too long at 3. Average is 2 -overshoot_counter = 7
+8:9:26  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:9:26  Cycles =   326795
+8:9:28  Going to Motor End
+8:9:28  cycle_count = 45
+8:9:28  36 Time too long at 544. Average is 494 -overshoot_counter = 5
+8:9:28  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:9:28  Cycles =   326795
+8:9:31  Going to Hose End
+8:9:31  cycle_count = 45
+8:9:31  39 Time too long at 3. Average is 2 -overshoot_counter = 8
+8:9:31  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:9:31  Cycles =   326796
+8:9:33  Going to Motor End
+8:9:33  cycle_count = 46
+8:9:33  36 Time too long at 544. Average is 494 -overshoot_counter = 6
+8:9:33  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:9:33  Cycles =   326796
+8:9:36  Going to Hose End
+8:9:36  cycle_count = 46
+8:9:36  39 Time too long at 3. Average is 2 -overshoot_counter = 9
+8:9:36  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:9:36  Cycles =   326797
+8:9:38  Going to Motor End
+8:9:38  cycle_count = 47
+8:9:38  36 Time too long at 544. Average is 494 -overshoot_counter = 7
+8:9:38  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:9:38  Cycles =   326797
+8:9:41  Going to Hose End
+8:9:41  cycle_count = 47
+8:9:41  39 _duration_time = 1
+8:9:41  39 -average = 2
+8:9:41  39 -overshoot_counter = 9
+8:9:41  
+8:9:41  Cycles =   326798
+8:9:43  Going to Motor End
+8:9:43  cycle_count = 48
+8:9:43  36 Time too long at 544. Average is 494 -overshoot_counter = 8
+8:9:43  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:9:43  Cycles =   326798
+8:9:46  Going to Hose End
+8:9:46  cycle_count = 48
+8:9:46  39 Time too long at 3. Average is 2 -overshoot_counter = 10
+8:9:46  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:9:46  Cycles =   326799
+8:9:48  Going to Motor End
+8:9:48  cycle_count = 49
+8:9:48  36 Time too long at 544. Average is 494 -overshoot_counter = 9
+8:9:48  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:9:48  Cycles =   326799
+8:9:51  Going to Hose End
+8:9:51  cycle_count = 49
+8:9:51  39 _duration_time = 0
+8:9:51  39 -average = 1
+8:9:51  39 -overshoot_counter = 10
+8:9:51  
+8:9:51  Cycles =   326800
+8:9:53  Going to Motor End
+8:9:53  cycle_count = 50
+8:9:53  36 Time too long at 544. Average is 494 -overshoot_counter = 10
+8:9:53  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:9:53  Cycles =   326800
+8:9:56  Going to Hose End
+8:9:56  cycle_count = 50
+8:9:56  39 _duration_time = 0
+8:9:56  39 -average = 0
+8:9:56  39 -overshoot_counter = 10
+8:9:56  
+8:9:56  Cycles =   326801
+8:9:58  Going to Motor End
+8:9:58  cycle_count = 51
+8:9:58  36 _duration_time = 477
+8:9:58  36 -average = 488
+8:9:58  36 -overshoot_counter = 10
+8:9:58  
+8:9:58  Cycles =   326801
+8:10:1  Going to Hose End
+8:10:1  cycle_count = 51
+8:10:1  39 Time too long at 1. Average is 0 -overshoot_counter = 11
+8:10:1  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:10:1  Cycles =   326802
+8:10:3  Going to Motor End
+8:10:3  cycle_count = 52
+8:10:3  36 _duration_time = 141
+8:10:3  36 -average = 370
+8:10:3  36 -overshoot_counter = 10
+8:10:3  
+8:10:3  Cycles =   326802
+8:10:6  Going to Hose End
+8:10:6  cycle_count = 52
+8:10:6  39 Time too long at 1. Average is 0 -overshoot_counter = 12
+8:10:6  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:10:6  Cycles =   326803
+8:10:8  Going to Motor End
+8:10:8  cycle_count = 53
+8:10:8  36 _duration_time = 157
+8:10:8  36 -average = 258
+8:10:8  36 -overshoot_counter = 10
+8:10:8  
+8:10:8  Cycles =   326803
+8:10:11  Going to Hose End
+8:10:11  cycle_count = 53
+8:10:11  39 Time too long at 1. Average is 0 -overshoot_counter = 13
+8:10:11  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:10:11  Cycles =   326804
+8:10:13  Going to Motor End
+8:10:13  cycle_count = 54
+8:10:13  36 _duration_time = 152
+8:10:13  36 -average = 150
+8:10:13  36 -overshoot_counter = 10
+8:10:13  
+8:10:13  Cycles =   326804
+8:10:16  Going to Hose End
+8:10:16  cycle_count = 54
+8:10:16  39 Time too long at 1. Average is 0 -overshoot_counter = 14
+8:10:16  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:10:16  Cycles =   326805
+8:10:18  Going to Motor End
+8:10:18  cycle_count = 55
+8:10:18  36 _duration_time = 160
+8:10:18  36 -average = 156
+8:10:18  36 -overshoot_counter = 10
+8:10:18  
+8:10:18  Cycles =   326805
+8:10:21  Going to Hose End
+8:10:21  cycle_count = 55
+8:10:21  39 Time too long at 1. Average is 0 -overshoot_counter = 15
+8:10:21  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:10:21  Cycles =   326806
+8:10:23  Going to Motor End
+8:10:23  cycle_count = 56
+8:10:23  36 _duration_time = 162
+8:10:23  36 -average = 158
+8:10:23  36 -overshoot_counter = 10
+8:10:23  
+8:10:23  Cycles =   326806
+8:10:26  Going to Hose End
+8:10:26  cycle_count = 56
+8:10:26  39 Time too long at 1. Average is 0 -overshoot_counter = 16
+8:10:26  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:10:26  Cycles =   326807
+8:10:28  Going to Motor End
+8:10:28  cycle_count = 57
+8:10:28  36 _duration_time = 132
+8:10:28  36 -average = 151
+8:10:28  36 -overshoot_counter = 10
+8:10:28  
+8:10:28  Cycles =   326807
+8:10:31  Going to Hose End
+8:10:31  cycle_count = 57
+8:10:31  39 Time too long at 1. Average is 0 -overshoot_counter = 17
+8:10:31  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:10:31  Cycles =   326808
+8:10:33  Going to Motor End
+8:10:33  cycle_count = 58
+8:10:33  36 Time too long at 167. Average is 151 -overshoot_counter = 11
+8:10:33  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:10:33  Cycles =   326808
+8:10:36  Going to Hose End
+8:10:36  cycle_count = 58
+8:10:36  39 Time too long at 1. Average is 0 -overshoot_counter = 18
+8:10:36  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:10:36  Cycles =   326809
+8:10:38  Going to Motor End
+8:10:38  cycle_count = 59
+8:10:38  36 _duration_time = 164
+8:10:38  36 -average = 152
+8:10:38  36 -overshoot_counter = 11
+8:10:38  
+8:10:38  Cycles =   326809
+8:10:41  Going to Hose End
+8:10:41  cycle_count = 59
+8:10:41  39 Time too long at 1. Average is 0 -overshoot_counter = 19
+8:10:41  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:10:41  Cycles =   326810
+8:10:43  Going to Motor End
+8:10:43  cycle_count = 60
+8:10:43  36 _duration_time = 163
+8:10:43  36 -average = 153
+8:10:43  36 -overshoot_counter = 11
+8:10:43  
+8:10:43  Cycles =   326810
+8:10:46  Going to Hose End
+8:10:46  cycle_count = 60
+8:10:46  39 Time too long at 1. Average is 0 -overshoot_counter = 20
+8:10:46  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:10:46  Cycles =   326811
+8:10:48  Going to Motor End
+8:10:48  cycle_count = 61
+8:10:48  36 _duration_time = 153
+8:10:48  36 -average = 160
+8:10:48  36 -overshoot_counter = 11
+8:10:48  
+8:10:48  Cycles =   326811
+8:10:51  Going to Hose End
+8:10:51  cycle_count = 61
+8:10:51  39 Time too long at 1. Average is 0 -overshoot_counter = 21
+8:10:51  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:10:51  Cycles =   326812
+8:10:53  Going to Motor End
+8:10:53  cycle_count = 62
+8:10:53  36 _duration_time = 126
+8:10:53  36 -average = 147
+8:10:53  36 -overshoot_counter = 11
+8:10:53  
+8:10:53  Cycles =   326812
+8:10:56  Going to Hose End
+8:10:56  cycle_count = 62
+8:10:56  39 Time too long at 1. Average is 0 -overshoot_counter = 22
+8:10:56  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:10:56  Cycles =   326813
+8:10:58  Going to Motor End
+8:10:58  cycle_count = 63
+8:10:58  36 Time too long at 162. Average is 147 -overshoot_counter = 12
+8:10:58  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:10:58  Cycles =   326813
+8:11:1  Going to Hose End
+8:11:1  cycle_count = 63
+8:11:1  39 Time too long at 1. Average is 0 -overshoot_counter = 23
+8:11:1  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:11:1  Cycles =   326814
+8:11:3  Going to Motor End
+8:11:3  cycle_count = 64
+8:11:3  36 _duration_time = 153
+8:11:3  36 -average = 144
+8:11:3  36 -overshoot_counter = 12
+8:11:3  
+8:11:3  Cycles =   326814
+8:11:6  Going to Hose End
+8:11:6  cycle_count = 64
+8:11:6  39 Time too long at 1. Average is 0 -overshoot_counter = 24
+8:11:6  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:11:6  Cycles =   326815
+8:11:8  Going to Motor End
+8:11:8  cycle_count = 65
+8:11:8  36 Time too long at 159. Average is 144 -overshoot_counter = 13
+8:11:8  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:11:8  Cycles =   326815
+8:11:11  Going to Hose End
+8:11:11  cycle_count = 65
+8:11:11  39 Time too long at 1. Average is 0 -overshoot_counter = 25
+8:11:11  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:11:11  Cycles =   326816
+8:11:13  Going to Motor End
+8:11:13  cycle_count = 66
+8:11:13  36 Time too long at 159. Average is 144 -overshoot_counter = 14
+8:11:13  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:11:13  Cycles =   326816
+8:11:16  Going to Hose End
+8:11:16  cycle_count = 66
+8:11:16  39 Time too long at 1. Average is 0 -overshoot_counter = 26
+8:11:16  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:11:16  Cycles =   326817
+8:11:18  Going to Motor End
+8:11:18  cycle_count = 67
+8:11:18  36 Time too long at 159. Average is 144 -overshoot_counter = 15
+8:11:18  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:11:18  Cycles =   326817
+8:11:21  Going to Hose End
+8:11:21  cycle_count = 67
+8:11:21  39 Time too long at 1. Average is 0 -overshoot_counter = 27
+8:11:21  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:11:21  Cycles =   326818
+8:11:23  Going to Motor End
+8:11:23  cycle_count = 68
+8:11:23  36 Time too long at 159. Average is 144 -overshoot_counter = 16
+8:11:23  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:11:23  Cycles =   326818
+8:11:26  Going to Hose End
+8:11:26  cycle_count = 68
+8:11:26  39 Time too long at 1. Average is 0 -overshoot_counter = 28
+8:11:26  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:11:26  Cycles =   326819
+8:11:28  Going to Motor End
+8:11:28  cycle_count = 69
+8:11:28  36 Time too long at 159. Average is 144 -overshoot_counter = 17
+8:11:28  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:11:28  Cycles =   326819
+8:11:31  Going to Hose End
+8:11:31  cycle_count = 69
+8:11:31  39 Time too long at 1. Average is 0 -overshoot_counter = 29
+8:11:31  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:11:31  Cycles =   326820
+8:11:33  Going to Motor End
+8:11:33  cycle_count = 70
+8:11:33  36 Time too long at 159. Average is 144 -overshoot_counter = 18
+8:11:33  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:11:33  Cycles =   326820
+8:11:36  Going to Hose End
+8:11:36  cycle_count = 70
+8:11:36  39 Time too long at 1. Average is 0 -overshoot_counter = 30
+8:11:36  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:11:36  Cycles =   326821
+8:11:38  Going to Motor End
+8:11:38  cycle_count = 71
+8:11:38  36 Time too long at 159. Average is 144 -overshoot_counter = 19
+8:11:38  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:11:38  Cycles =   326821
+8:11:41  Going to Hose End
+8:11:41  cycle_count = 71
+8:11:41  39 Time too long at 1. Average is 0 -overshoot_counter = 31
+8:11:41  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:11:41  Cycles =   326822
+8:11:43  Going to Motor End
+8:11:43  cycle_count = 72
+8:11:43  36 Time too long at 159. Average is 144 -overshoot_counter = 20
+8:11:43  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:11:43  Cycles =   326822
+8:11:46  Going to Hose End
+8:11:46  cycle_count = 72
+8:11:46  39 Time too long at 1. Average is 0 -overshoot_counter = 32
+8:11:46  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:11:46  Cycles =   326823
+8:11:48  Going to Motor End
+8:11:48  cycle_count = 73
+8:11:48  36 Time too long at 159. Average is 144 -overshoot_counter = 21
+8:11:48  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:11:48  Cycles =   326823
+8:11:51  Going to Hose End
+8:11:51  cycle_count = 73
+8:11:51  39 Time too long at 1. Average is 0 -overshoot_counter = 33
+8:11:51  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:11:51  Cycles =   326824
+8:11:53  Going to Motor End
+8:11:53  cycle_count = 74
+8:11:53  36 Time too long at 159. Average is 144 -overshoot_counter = 22
+8:11:53  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:11:53  Cycles =   326824
+8:11:56  Going to Hose End
+8:11:56  cycle_count = 74
+8:11:56  39 Time too long at 1. Average is 0 -overshoot_counter = 34
+8:11:56  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:11:56  Cycles =   326825
+8:11:58  Going to Motor End
+8:11:58  cycle_count = 75
+8:11:58  36 Time too long at 159. Average is 144 -overshoot_counter = 23
+8:11:58  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:11:58  Cycles =   326825
+8:12:1  Going to Hose End
+8:12:1  cycle_count = 75
+8:12:1  39 Time too long at 1. Average is 0 -overshoot_counter = 35
+8:12:1  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:12:1  Cycles =   326826
+8:12:3  Going to Motor End
+8:12:3  cycle_count = 76
+8:12:3  36 Time too long at 159. Average is 144 -overshoot_counter = 24
+8:12:3  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:12:3  Cycles =   326826
+8:12:6  Going to Hose End
+8:12:6  cycle_count = 76
+8:12:6  39 Time too long at 1. Average is 0 -overshoot_counter = 36
+8:12:6  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:12:6  Cycles =   326827
+8:12:8  Going to Motor End
+8:12:8  cycle_count = 77
+8:12:8  36 Time too long at 159. Average is 144 -overshoot_counter = 25
+8:12:8  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:12:8  Cycles =   326827
+8:12:11  Going to Hose End
+8:12:11  cycle_count = 77
+8:12:11  39 Time too long at 1. Average is 0 -overshoot_counter = 37
+8:12:11  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:12:11  Cycles =   326828
+8:12:13  Going to Motor End
+8:12:13  cycle_count = 78
+8:12:13  36 Time too long at 159. Average is 144 -overshoot_counter = 26
+8:12:13  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:12:13  Cycles =   326828
+8:12:16  Going to Hose End
+8:12:16  cycle_count = 78
+8:12:16  39 Time too long at 1. Average is 0 -overshoot_counter = 38
+8:12:16  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:12:16  Cycles =   326829
+8:12:18  Going to Motor End
+8:12:18  cycle_count = 79
+8:12:18  36 Time too long at 159. Average is 144 -overshoot_counter = 27
+8:12:18  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:12:18  Cycles =   326829
+8:12:21  Going to Hose End
+8:12:21  cycle_count = 79
+8:12:21  39 Time too long at 1. Average is 0 -overshoot_counter = 39
+8:12:21  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:12:21  Cycles =   326830
+8:12:23  Going to Motor End
+8:12:23  cycle_count = 80
+8:12:23  36 Time too long at 159. Average is 144 -overshoot_counter = 28
+8:12:23  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:12:23  Cycles =   326830
+8:12:26  Going to Hose End
+8:12:26  cycle_count = 80
+8:12:26  39 Time too long at 1. Average is 0 -overshoot_counter = 40
+8:12:26  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:12:26  Cycles =   326831
+8:12:28  Going to Motor End
+8:12:28  cycle_count = 81
+8:12:28  36 Time too long at 159. Average is 144 -overshoot_counter = 29
+8:12:28  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:12:28  Cycles =   326831
+8:12:31  Going to Hose End
+8:12:31  cycle_count = 81
+8:12:31  39 Time too long at 1. Average is 0 -overshoot_counter = 41
+8:12:31  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:12:31  Cycles =   326832
+8:12:33  Going to Motor End
+8:12:33  cycle_count = 82
+8:12:33  36 Time too long at 159. Average is 144 -overshoot_counter = 30
+8:12:33  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:12:33  Cycles =   326832
+8:12:36  Going to Hose End
+8:12:36  cycle_count = 82
+8:12:36  39 Time too long at 1. Average is 0 -overshoot_counter = 42
+8:12:36  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:12:36  Cycles =   326833
+8:12:38  Going to Motor End
+8:12:38  cycle_count = 83
+8:12:38  36 Time too long at 159. Average is 144 -overshoot_counter = 31
+8:12:38  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:12:38  Cycles =   326833
+8:12:41  Going to Hose End
+8:12:41  cycle_count = 83
+8:12:41  39 Time too long at 1. Average is 0 -overshoot_counter = 43
+8:12:41  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:12:41  Cycles =   326834
+8:12:43  Going to Motor End
+8:12:43  cycle_count = 84
+8:12:43  36 Time too long at 159. Average is 144 -overshoot_counter = 32
+8:12:43  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:12:43  Cycles =   326834
+8:12:46  Going to Hose End
+8:12:46  cycle_count = 84
+8:12:46  39 Time too long at 1. Average is 0 -overshoot_counter = 44
+8:12:46  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:12:46  Cycles =   326835
+8:12:48  Going to Motor End
+8:12:48  cycle_count = 85
+8:12:48  36 Time too long at 159. Average is 144 -overshoot_counter = 33
+8:12:48  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:12:48  Cycles =   326835
+8:12:51  Going to Hose End
+8:12:51  cycle_count = 85
+8:12:51  39 Time too long at 1. Average is 0 -overshoot_counter = 45
+8:12:51  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:12:51  Cycles =   326836
+8:12:53  Going to Motor End
+8:12:53  cycle_count = 86
+8:12:53  36 Time too long at 159. Average is 144 -overshoot_counter = 34
+8:12:53  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:12:53  Cycles =   326836
+8:12:56  Going to Hose End
+8:12:56  cycle_count = 86
+8:12:56  39 Time too long at 1. Average is 0 -overshoot_counter = 46
+8:12:56  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:12:56  Cycles =   326837
+8:12:58  Going to Motor End
+8:12:58  cycle_count = 87
+8:12:58  36 Time too long at 159. Average is 144 -overshoot_counter = 35
+8:12:58  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:12:58  Cycles =   326837
+8:13:1  Going to Hose End
+8:13:1  cycle_count = 87
+8:13:1  39 Time too long at 1. Average is 0 -overshoot_counter = 47
+8:13:1  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:13:1  Cycles =   326838
+8:13:3  Going to Motor End
+8:13:3  cycle_count = 88
+8:13:3  36 Time too long at 159. Average is 144 -overshoot_counter = 36
+8:13:3  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:13:3  Cycles =   326838
+8:13:6  Going to Hose End
+8:13:6  cycle_count = 88
+8:13:6  39 Time too long at 1. Average is 0 -overshoot_counter = 48
+8:13:6  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:13:6  Cycles =   326839
+8:13:8  Going to Motor End
+8:13:8  cycle_count = 89
+8:13:8  36 Time too long at 159. Average is 144 -overshoot_counter = 37
+8:13:8  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:13:8  Cycles =   326839
+8:13:11  Going to Hose End
+8:13:11  cycle_count = 89
+8:13:11  39 Time too long at 1. Average is 0 -overshoot_counter = 49
+8:13:11  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:13:11  Cycles =   326840
+8:13:13  Going to Motor End
+8:13:13  cycle_count = 90
+8:13:13  36 Time too long at 159. Average is 144 -overshoot_counter = 38
+8:13:13  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:13:13  Cycles =   326840
+8:13:16  Going to Hose End
+8:13:16  cycle_count = 90
+8:13:16  39 Time too long at 1. Average is 0 -overshoot_counter = 50
+8:13:16  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:13:16  Cycles =   326841
+8:13:18  Going to Motor End
+8:13:18  cycle_count = 91
+8:13:18  36 Time too long at 159. Average is 144 -overshoot_counter = 39
+8:13:18  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:13:18  Cycles =   326841
+8:13:21  Going to Hose End
+8:13:21  cycle_count = 91
+8:13:21  39 Time too long at 1. Average is 0 -overshoot_counter = 51
+8:13:21  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:13:21  Cycles =   326842
+8:13:23  Going to Motor End
+8:13:23  cycle_count = 92
+8:13:23  36 Time too long at 159. Average is 144 -overshoot_counter = 40
+8:13:23  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:13:23  Cycles =   326842
+8:13:26  Going to Hose End
+8:13:26  cycle_count = 92
+8:13:26  39 Time too long at 1. Average is 0 -overshoot_counter = 52
+8:13:26  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:13:26  Cycles =   326843
+8:13:28  Going to Motor End
+8:13:28  cycle_count = 93
+8:13:28  36 Time too long at 159. Average is 144 -overshoot_counter = 41
+8:13:28  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:13:28  Cycles =   326843
+8:13:31  Going to Hose End
+8:13:31  cycle_count = 93
+8:13:31  39 Time too long at 1. Average is 0 -overshoot_counter = 53
+8:13:31  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:13:31  Cycles =   326844
+8:13:33  Going to Motor End
+8:13:33  cycle_count = 94
+8:13:33  36 Time too long at 159. Average is 144 -overshoot_counter = 42
+8:13:33  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:13:33  Cycles =   326844
+8:13:36  Going to Hose End
+8:13:36  cycle_count = 94
+8:13:36  39 Time too long at 1. Average is 0 -overshoot_counter = 54
+8:13:36  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:13:36  Cycles =   326845
+8:13:38  Going to Motor End
+8:13:38  cycle_count = 95
+8:13:38  36 Time too long at 159. Average is 144 -overshoot_counter = 43
+8:13:38  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:13:38  Cycles =   326845
+8:13:41  Going to Hose End
+8:13:41  cycle_count = 95
+8:13:41  39 Time too long at 1. Average is 0 -overshoot_counter = 55
+8:13:41  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:13:41  Cycles =   326846
+8:13:43  Going to Motor End
+8:13:43  cycle_count = 96
+8:13:43  36 Time too long at 159. Average is 144 -overshoot_counter = 44
+8:13:43  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:13:43  Cycles =   326846
+8:13:46  Going to Hose End
+8:13:46  cycle_count = 96
+8:13:46  39 Time too long at 1. Average is 0 -overshoot_counter = 56
+8:13:46  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:13:46  Cycles =   326847
+8:13:48  Going to Motor End
+8:13:48  cycle_count = 97
+8:13:48  36 Time too long at 159. Average is 144 -overshoot_counter = 45
+8:13:48  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:13:48  Cycles =   326847
+8:13:51  Going to Hose End
+8:13:51  cycle_count = 97
+8:13:51  39 Time too long at 1. Average is 0 -overshoot_counter = 57
+8:13:51  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:13:51  Cycles =   326848
+8:13:53  Going to Motor End
+8:13:53  cycle_count = 98
+8:13:53  36 Time too long at 159. Average is 144 -overshoot_counter = 46
+8:13:53  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:13:53  Cycles =   326848
+8:13:56  Going to Hose End
+8:13:56  cycle_count = 98
+8:13:56  39 Time too long at 1. Average is 0 -overshoot_counter = 58
+8:13:56  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:13:56  Cycles =   326849
+8:13:58  Going to Motor End
+8:13:58  cycle_count = 99
+8:13:58  36 Time too long at 159. Average is 144 -overshoot_counter = 47
+8:13:58  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:13:58  Cycles =   326849
+8:14:1  Going to Hose End
+8:14:1  cycle_count = 99
+8:14:1  39 Time too long at 1. Average is 0 -overshoot_counter = 59
+8:14:1  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:14:1  Cycles =   326850
+8:14:3  Going to Motor End
+8:14:3  cycle_count = 100
+8:14:3  36 Time too long at 159. Average is 144 -overshoot_counter = 48
+8:14:3  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:14:3  Cycles =   326850
+8:14:6  Going to Hose End
+8:14:6  cycle_count = 100
+8:14:6  39 Time too long at 1. Average is 0 -overshoot_counter = 60
+8:14:6  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:14:6  Cycles =   326851
+8:14:8  Going to Motor End
+8:14:8  cycle_count = 101
+8:14:8  36 Time too long at 159. Average is 144 -overshoot_counter = 49
+8:14:8  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:14:8  Cycles =   326851
+8:14:11  Going to Hose End
+8:14:11  cycle_count = 101
+8:14:11  39 Time too long at 1. Average is 0 -overshoot_counter = 61
+8:14:11  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:14:11  Cycles =   326852
+8:14:13  Going to Motor End
+8:14:13  cycle_count = 102
+8:14:13  36 Time too long at 159. Average is 144 -overshoot_counter = 50
+8:14:13  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:14:13  Cycles =   326852
+8:14:16  Going to Hose End
+8:14:16  cycle_count = 102
+8:14:16  39 Time too long at 1. Average is 0 -overshoot_counter = 62
+8:14:16  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:14:16  Cycles =   326853
+8:14:18  Going to Motor End
+8:14:18  cycle_count = 103
+8:14:18  36 Time too long at 159. Average is 144 -overshoot_counter = 51
+8:14:18  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:14:18  Cycles =   326853
+8:14:21  Going to Hose End
+8:14:21  cycle_count = 103
+8:14:21  39 Time too long at 1. Average is 0 -overshoot_counter = 63
+8:14:21  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:14:21  Cycles =   326854
+8:14:23  Going to Motor End
+8:14:23  cycle_count = 104
+8:14:23  36 Time too long at 159. Average is 144 -overshoot_counter = 52
+8:14:23  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:14:23  Cycles =   326854
+8:14:26  Going to Hose End
+8:14:26  cycle_count = 104
+8:14:26  39 Time too long at 1. Average is 0 -overshoot_counter = 64
+8:14:26  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:14:26  Cycles =   326855
+8:14:28  Going to Motor End
+8:14:28  cycle_count = 105
+8:14:28  36 Time too long at 159. Average is 144 -overshoot_counter = 53
+8:14:28  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:14:28  Cycles =   326855
+8:14:31  Going to Hose End
+8:14:31  cycle_count = 105
+8:14:31  39 Time too long at 1. Average is 0 -overshoot_counter = 65
+8:14:31  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:14:31  Cycles =   326856
+8:14:33  Going to Motor End
+8:14:33  cycle_count = 106
+8:14:33  36 Time too long at 159. Average is 144 -overshoot_counter = 54
+8:14:33  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:14:33  Cycles =   326856
+8:14:36  Going to Hose End
+8:14:36  cycle_count = 106
+8:14:36  39 Time too long at 1. Average is 0 -overshoot_counter = 66
+8:14:36  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:14:36  Cycles =   326857
+8:14:38  Going to Motor End
+8:14:38  cycle_count = 107
+8:14:38  36 Time too long at 159. Average is 144 -overshoot_counter = 55
+8:14:38  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:14:38  Cycles =   326857
+8:14:41  Going to Hose End
+8:14:41  cycle_count = 107
+8:14:41  39 Time too long at 1. Average is 0 -overshoot_counter = 67
+8:14:41  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:14:41  Cycles =   326858
+8:14:43  Going to Motor End
+8:14:43  cycle_count = 108
+8:14:43  36 Time too long at 159. Average is 144 -overshoot_counter = 56
+8:14:43  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:14:43  Cycles =   326858
+8:14:46  Going to Hose End
+8:14:46  cycle_count = 108
+8:14:46  39 Time too long at 1. Average is 0 -overshoot_counter = 68
+8:14:46  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:14:46  Cycles =   326859
+8:14:48  Going to Motor End
+8:14:48  cycle_count = 109
+8:14:48  36 Time too long at 159. Average is 144 -overshoot_counter = 57
+8:14:48  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:14:48  Cycles =   326859
+8:14:51  Going to Hose End
+8:14:51  cycle_count = 109
+8:14:51  39 Time too long at 1. Average is 0 -overshoot_counter = 69
+8:14:51  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:14:51  Cycles =   326860
+8:14:53  Going to Motor End
+8:14:53  cycle_count = 110
+8:14:53  36 Time too long at 159. Average is 144 -overshoot_counter = 58
+8:14:53  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:14:53  Cycles =   326860
+8:14:56  Going to Hose End
+8:14:56  cycle_count = 110
+8:14:56  39 Time too long at 1. Average is 0 -overshoot_counter = 70
+8:14:56  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:14:56  Cycles =   326861
+8:14:58  Going to Motor End
+8:14:58  cycle_count = 111
+8:14:58  36 Time too long at 159. Average is 144 -overshoot_counter = 59
+8:14:58  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:14:58  Cycles =   326861
+8:15:1  Going to Hose End
+8:15:1  cycle_count = 111
+8:15:1  39 Time too long at 1. Average is 0 -overshoot_counter = 71
+8:15:1  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:15:1  Cycles =   326862
+8:15:3  Going to Motor End
+8:15:3  cycle_count = 112
+8:15:3  36 _duration_time = 154
+8:15:3  36 -average = 144
+8:15:3  36 -overshoot_counter = 59
+8:15:3  
+8:15:3  Cycles =   326862
+8:15:6  Going to Hose End
+8:15:6  cycle_count = 112
+8:15:6  39 Time too long at 1. Average is 0 -overshoot_counter = 72
+8:15:6  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:15:6  Cycles =   326863
+8:15:8  Going to Motor End
+8:15:8  cycle_count = 113
+8:15:8  36 _duration_time = 148
+8:15:8  36 -average = 151
+8:15:8  36 -overshoot_counter = 59
+8:15:8  
+8:15:8  Cycles =   326863
+8:15:11  Going to Hose End
+8:15:11  cycle_count = 113
+8:15:11  39 Time too long at 1. Average is 0 -overshoot_counter = 73
+8:15:11  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:15:11  Cycles =   326864
+8:15:13  Going to Motor End
+8:15:13  cycle_count = 114
+8:15:13  36 _duration_time = 156
+8:15:13  36 -average = 152
+8:15:13  36 -overshoot_counter = 59
+8:15:13  
+8:15:13  Cycles =   326864
+8:15:16  Going to Hose End
+8:15:16  cycle_count = 114
+8:15:16  39 Time too long at 1. Average is 0 -overshoot_counter = 74
+8:15:16  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:15:16  Cycles =   326865
+8:15:18  Going to Motor End
+8:15:18  cycle_count = 115
+8:15:18  36 _duration_time = 124
+8:15:18  36 -average = 142
+8:15:18  36 -overshoot_counter = 59
+8:15:18  
+8:15:18  Cycles =   326865
+8:15:21  Going to Hose End
+8:15:21  cycle_count = 115
+8:15:21  39 Time too long at 1. Average is 0 -overshoot_counter = 75
+8:15:21  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:15:21  Cycles =   326866
+8:15:23  Going to Motor End
+8:15:23  cycle_count = 116
+8:15:23  36 Time too long at 157. Average is 142 -overshoot_counter = 60
+8:15:23  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:15:23  Cycles =   326866
+8:15:26  Going to Hose End
+8:15:26  cycle_count = 116
+8:15:26  39 Time too long at 1. Average is 0 -overshoot_counter = 76
+8:15:26  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:15:26  Cycles =   326867
+8:15:28  Going to Motor End
+8:15:28  cycle_count = 117
+8:15:28  36 Time too long at 157. Average is 142 -overshoot_counter = 61
+8:15:28  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:15:28  Cycles =   326867
+8:15:31  Going to Hose End
+8:15:31  cycle_count = 117
+8:15:31  39 Time too long at 1. Average is 0 -overshoot_counter = 77
+8:15:31  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:15:31  Cycles =   326868
+8:15:33  Going to Motor End
+8:15:33  cycle_count = 118
+8:15:33  36 _duration_time = 152
+8:15:33  36 -average = 144
+8:15:33  36 -overshoot_counter = 61
+8:15:33  
+8:15:33  Cycles =   326868
+8:15:36  Going to Hose End
+8:15:36  cycle_count = 118
+8:15:36  39 Time too long at 1. Average is 0 -overshoot_counter = 78
+8:15:36  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:15:36  Cycles =   326869
+8:15:38  Going to Motor End
+8:15:38  cycle_count = 119
+8:15:38  36 _duration_time = 156
+8:15:38  36 -average = 144
+8:15:38  36 -overshoot_counter = 61
+8:15:38  
+8:15:38  Cycles =   326869
+8:15:41  Going to Hose End
+8:15:41  cycle_count = 119
+8:15:41  39 Time too long at 1. Average is 0 -overshoot_counter = 79
+8:15:41  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:15:41  Cycles =   326870
+8:15:43  Going to Motor End
+8:15:43  cycle_count = 120
+8:15:43  36 Time too long at 159. Average is 144 -overshoot_counter = 62
+8:15:43  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:15:43  Cycles =   326870
+8:15:46  Going to Hose End
+8:15:46  cycle_count = 120
+8:15:46  39 Time too long at 1. Average is 0 -overshoot_counter = 80
+8:15:46  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:15:46  Cycles =   326871
+8:15:48  Going to Motor End
+8:15:48  cycle_count = 121
+8:15:48  36 Time too long at 159. Average is 144 -overshoot_counter = 63
+8:15:48  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:15:48  Cycles =   326871
+8:15:51  Going to Hose End
+8:15:51  cycle_count = 121
+8:15:51  39 Time too long at 1. Average is 0 -overshoot_counter = 81
+8:15:51  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:15:51  Cycles =   326872
+8:15:53  Going to Motor End
+8:15:53  cycle_count = 122
+8:15:53  36 Time too long at 159. Average is 144 -overshoot_counter = 64
+8:15:53  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:15:53  Cycles =   326872
+8:15:56  Going to Hose End
+8:15:56  cycle_count = 122
+8:15:56  39 Time too long at 1. Average is 0 -overshoot_counter = 82
+8:15:56  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:15:56  Cycles =   326873
+8:15:58  Going to Motor End
+8:15:58  cycle_count = 123
+8:15:58  36 Time too long at 159. Average is 144 -overshoot_counter = 65
+8:15:58  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:15:58  Cycles =   326873
+8:16:1  Going to Hose End
+8:16:1  cycle_count = 123
+8:16:1  39 Time too long at 1. Average is 0 -overshoot_counter = 83
+8:16:1  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:16:1  Cycles =   326874
+8:16:3  Going to Motor End
+8:16:3  cycle_count = 124
+8:16:3  36 Time too long at 159. Average is 144 -overshoot_counter = 66
+8:16:3  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:16:3  Cycles =   326874
+8:16:6  Going to Hose End
+8:16:6  cycle_count = 124
+8:16:6  39 Time too long at 1. Average is 0 -overshoot_counter = 84
+8:16:6  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:16:6  Cycles =   326875
+8:16:8  Going to Motor End
+8:16:8  cycle_count = 125
+8:16:8  36 Time too long at 159. Average is 144 -overshoot_counter = 67
+8:16:8  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:16:8  Cycles =   326875
+8:16:11  Going to Hose End
+8:16:11  cycle_count = 125
+8:16:11  39 Time too long at 1. Average is 0 -overshoot_counter = 85
+8:16:11  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:16:11  Cycles =   326876
+8:16:13  Going to Motor End
+8:16:13  cycle_count = 126
+8:16:13  36 Time too long at 159. Average is 144 -overshoot_counter = 68
+8:16:13  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:16:13  Cycles =   326876
+8:16:16  Going to Hose End
+8:16:16  cycle_count = 126
+8:16:16  39 Time too long at 1. Average is 0 -overshoot_counter = 86
+8:16:16  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:16:16  Cycles =   326877
+8:16:18  Going to Motor End
+8:16:18  cycle_count = 127
+8:16:18  36 Time too long at 159. Average is 144 -overshoot_counter = 69
+8:16:18  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:16:18  Cycles =   326877
+8:16:21  Going to Hose End
+8:16:21  cycle_count = 127
+8:16:21  39 Time too long at 1. Average is 0 -overshoot_counter = 87
+8:16:21  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:16:21  Cycles =   326878
+8:16:23  Going to Motor End
+8:16:23  cycle_count = 128
+8:16:23  36 Time too long at 159. Average is 144 -overshoot_counter = 70
+8:16:23  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:16:23  Cycles =   326878
+8:16:26  Going to Hose End
+8:16:26  cycle_count = 128
+8:16:26  39 Time too long at 1. Average is 0 -overshoot_counter = 88
+8:16:26  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:16:26  Cycles =   326879
+8:16:28  Going to Motor End
+8:16:28  cycle_count = 129
+8:16:28  36 Time too long at 159. Average is 144 -overshoot_counter = 71
+8:16:28  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:16:28  Cycles =   326879
+8:16:31  Going to Hose End
+8:16:31  cycle_count = 129
+8:16:31  39 Time too long at 1. Average is 0 -overshoot_counter = 89
+8:16:31  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:16:31  Cycles =   326880
+8:16:33  Going to Motor End
+8:16:33  cycle_count = 130
+8:16:33  36 Time too long at 159. Average is 144 -overshoot_counter = 72
+8:16:33  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:16:33  Cycles =   326880
+8:16:36  Going to Hose End
+8:16:36  cycle_count = 130
+8:16:36  39 Time too long at 1. Average is 0 -overshoot_counter = 90
+8:16:36  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:16:36  Cycles =   326881
+8:16:38  Going to Motor End
+8:16:38  cycle_count = 131
+8:16:38  36 Time too long at 159. Average is 144 -overshoot_counter = 73
+8:16:38  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:16:38  Cycles =   326881
+8:16:41  Going to Hose End
+8:16:41  cycle_count = 131
+8:16:41  39 Time too long at 1. Average is 0 -overshoot_counter = 91
+8:16:41  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:16:41  Cycles =   326882
+8:16:43  Going to Motor End
+8:16:43  cycle_count = 132
+8:16:43  36 Time too long at 159. Average is 144 -overshoot_counter = 74
+8:16:43  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:16:43  Cycles =   326882
+8:16:46  Going to Hose End
+8:16:46  cycle_count = 132
+8:16:46  39 Time too long at 1. Average is 0 -overshoot_counter = 92
+8:16:46  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:16:46  Cycles =   326883
+8:16:48  Going to Motor End
+8:16:48  cycle_count = 133
+8:16:48  36 _duration_time = 138
+8:16:48  36 -average = 148
+8:16:48  36 -overshoot_counter = 74
+8:16:48  
+8:16:48  Cycles =   326883
+8:16:51  Going to Hose End
+8:16:51  cycle_count = 133
+8:16:51  39 Time too long at 1. Average is 0 -overshoot_counter = 93
+8:16:51  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:16:51  Cycles =   326884
+8:16:53  Going to Motor End
+8:16:53  cycle_count = 134
+8:16:53  36 _duration_time = 154
+8:16:53  36 -average = 149
+8:16:53  36 -overshoot_counter = 74
+8:16:53  
+8:16:53  Cycles =   326884
+8:16:56  Going to Hose End
+8:16:56  cycle_count = 134
+8:16:56  39 Time too long at 1. Average is 0 -overshoot_counter = 94
+8:16:56  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:16:56  Cycles =   326885
+8:16:58  Going to Motor End
+8:16:58  cycle_count = 135
+8:16:58  36 Time too long at 164. Average is 149 -overshoot_counter = 75
+8:16:58  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:16:58  Cycles =   326885
+8:17:1  Going to Hose End
+8:17:1  cycle_count = 135
+8:17:1  39 Time too long at 1. Average is 0 -overshoot_counter = 95
+8:17:1  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:17:1  Cycles =   326886
+8:17:3  Going to Motor End
+8:17:3  cycle_count = 136
+8:17:3  36 Time too long at 164. Average is 149 -overshoot_counter = 76
+8:17:3  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:17:3  Cycles =   326886
+8:17:6  Going to Hose End
+8:17:6  cycle_count = 136
+8:17:6  39 Time too long at 1. Average is 0 -overshoot_counter = 96
+8:17:6  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:17:6  Cycles =   326887
+8:17:8  Going to Motor End
+8:17:8  cycle_count = 137
+8:17:8  36 Time too long at 164. Average is 149 -overshoot_counter = 77
+8:17:8  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:17:8  Cycles =   326887
+8:17:11  Going to Hose End
+8:17:11  cycle_count = 137
+8:17:11  39 Time too long at 1. Average is 0 -overshoot_counter = 97
+8:17:11  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:17:11  Cycles =   326888
+8:17:13  Going to Motor End
+8:17:13  cycle_count = 138
+8:17:13  36 Time too long at 164. Average is 149 -overshoot_counter = 78
+8:17:13  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:17:13  Cycles =   326888
+8:17:16  Going to Hose End
+8:17:16  cycle_count = 138
+8:17:16  39 Time too long at 1. Average is 0 -overshoot_counter = 98
+8:17:16  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:17:16  Cycles =   326889
+8:17:18  Going to Motor End
+8:17:18  cycle_count = 139
+8:17:18  36 Time too long at 164. Average is 149 -overshoot_counter = 79
+8:17:18  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:17:18  Cycles =   326889
+8:17:21  Going to Hose End
+8:17:21  cycle_count = 139
+8:17:21  39 Time too long at 1. Average is 0 -overshoot_counter = 99
+8:17:21  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:17:21  Cycles =   326890
+8:17:22  Going to Motor End
+8:17:23  cycle_count = 140
+8:17:23  36 Time too long at 164. Average is 149 -overshoot_counter = 80
+8:17:23  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:17:23  Cycles =   326890
+8:17:26  Going to Hose End
+8:17:26  cycle_count = 140
+8:17:26  39 Time too long at 1. Average is 0 -overshoot_counter = 100
+8:17:26  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:17:26  Cycles =   326891
+8:17:28  Going to Motor End
+8:17:28  cycle_count = 141
+8:17:28  36 Time too long at 164. Average is 149 -overshoot_counter = 81
+8:17:28  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:17:28  Cycles =   326891
+8:17:31  Going to Hose End
+8:17:31  cycle_count = 141
+8:17:31  39 Time too long at 1. Average is 0 -overshoot_counter = 101
+8:17:31  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:17:31  Cycles =   326892
+8:17:33  Going to Motor End
+8:17:33  cycle_count = 142
+8:17:33  36 Time too long at 164. Average is 149 -overshoot_counter = 82
+8:17:33  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:17:33  Cycles =   326892
+8:17:36  Going to Hose End
+8:17:36  cycle_count = 142
+8:17:36  39 Time too long at 1. Average is 0 -overshoot_counter = 102
+8:17:36  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:17:36  Cycles =   326893
+8:17:38  Going to Motor End
+8:17:38  cycle_count = 143
+8:17:38  36 Time too long at 164. Average is 149 -overshoot_counter = 83
+8:17:38  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:17:38  Cycles =   326893
+8:17:41  Going to Hose End
+8:17:41  cycle_count = 143
+8:17:41  39 Time too long at 1. Average is 0 -overshoot_counter = 103
+8:17:41  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:17:41  Cycles =   326894
+8:17:42  Going to Motor End
+8:17:43  cycle_count = 144
+8:17:43  36 Time too long at 164. Average is 149 -overshoot_counter = 84
+8:17:43  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:17:43  Cycles =   326894
+8:17:46  Going to Hose End
+8:17:46  cycle_count = 144
+8:17:46  39 Time too long at 1. Average is 0 -overshoot_counter = 104
+8:17:46  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:17:46  Cycles =   326895
+8:17:47  Going to Motor End
+8:17:48  cycle_count = 145
+8:17:48  36 Time too long at 164. Average is 149 -overshoot_counter = 85
+8:17:48  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:17:48  Cycles =   326895
+8:17:50  Going to Hose End
+8:17:51  cycle_count = 145
+8:17:51  39 Time too long at 1. Average is 0 -overshoot_counter = 105
+8:17:51  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:17:51  Cycles =   326896
+8:17:52  Going to Motor End
+8:17:53  cycle_count = 146
+8:17:53  36 Time too long at 164. Average is 149 -overshoot_counter = 86
+8:17:53  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:17:53  Cycles =   326896
+8:17:56  Going to Hose End
+8:17:56  cycle_count = 146
+8:17:56  39 Time too long at 1. Average is 0 -overshoot_counter = 106
+8:17:56  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:17:56  Cycles =   326897
+8:17:57  Going to Motor End
+8:17:58  cycle_count = 147
+8:17:58  36 Time too long at 164. Average is 149 -overshoot_counter = 87
+8:17:58  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:17:58  Cycles =   326897
+8:18:0  Going to Hose End
+8:18:1  cycle_count = 147
+8:18:1  39 Time too long at 1. Average is 0 -overshoot_counter = 107
+8:18:1  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:18:1  Cycles =   326898
+8:18:2  Going to Motor End
+8:18:2  cycle_count = 148
+8:18:3  36 Time too long at 164. Average is 149 -overshoot_counter = 88
+8:18:3  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:18:3  Cycles =   326898
+8:18:5  Going to Hose End
+8:18:6  cycle_count = 148
+8:18:6  39 Time too long at 1. Average is 0 -overshoot_counter = 108
+8:18:6  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:18:6  Cycles =   326899
+8:18:7  Going to Motor End
+8:18:7  cycle_count = 149
+8:18:8  36 Time too long at 164. Average is 149 -overshoot_counter = 89
+8:18:8  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:18:8  Cycles =   326899
+8:18:11  Going to Hose End
+8:18:11  cycle_count = 149
+8:18:11  39 Time too long at 1. Average is 0 -overshoot_counter = 109
+8:18:11  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:18:11  Cycles =   326900
+8:18:12  Going to Motor End
+8:18:13  cycle_count = 150
+8:18:13  36 Time too long at 164. Average is 149 -overshoot_counter = 90
+8:18:13  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:18:13  Cycles =   326900
+8:18:15  Going to Hose End
+8:18:16  cycle_count = 150
+8:18:16  39 Time too long at 1. Average is 0 -overshoot_counter = 110
+8:18:16  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:18:16  Cycles =   326901
+8:18:17  Going to Motor End
+8:18:17  cycle_count = 151
+8:18:18  36 Time too long at 164. Average is 149 -overshoot_counter = 91
+8:18:18  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:18:18  Cycles =   326901
+8:18:20  Going to Hose End
+8:18:21  cycle_count = 151
+8:18:21  39 Time too long at 1. Average is 0 -overshoot_counter = 111
+8:18:21  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:18:21  Cycles =   326902
+8:18:22  Going to Motor End
+8:18:22  cycle_count = 152
+8:18:23  36 Time too long at 164. Average is 149 -overshoot_counter = 92
+8:18:23  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:18:23  Cycles =   326902
+8:18:25  Going to Hose End
+8:18:26  cycle_count = 152
+8:18:26  39 Time too long at 1. Average is 0 -overshoot_counter = 112
+8:18:26  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:18:26  Cycles =   326903
+8:18:27  Going to Motor End
+8:18:27  cycle_count = 153
+8:18:28  36 Time too long at 164. Average is 149 -overshoot_counter = 93
+8:18:28  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:18:28  Cycles =   326903
+8:18:30  Going to Hose End
+8:18:31  cycle_count = 153
+8:18:31  39 Time too long at 1. Average is 0 -overshoot_counter = 113
+8:18:31  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:18:31  Cycles =   326904
+8:18:32  Going to Motor End
+8:18:32  cycle_count = 154
+8:18:33  36 Time too long at 164. Average is 149 -overshoot_counter = 94
+8:18:33  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:18:33  Cycles =   326904
+8:18:35  Going to Hose End
+8:18:35  cycle_count = 154
+8:18:36  39 Time too long at 1. Average is 0 -overshoot_counter = 114
+8:18:36  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:18:36  Cycles =   326905
+8:18:37  Going to Motor End
+8:18:37  cycle_count = 155
+8:18:38  36 Time too long at 164. Average is 149 -overshoot_counter = 95
+8:18:38  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:18:38  Cycles =   326905
+8:18:40  Going to Hose End
+8:18:40  cycle_count = 155
+8:18:41  39 Time too long at 1. Average is 0 -overshoot_counter = 115
+8:18:41  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:18:41  Cycles =   326906
+8:18:42  Going to Motor End
+8:18:42  cycle_count = 156
+8:18:43  36 Time too long at 164. Average is 149 -overshoot_counter = 96
+8:18:43  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:18:43  Cycles =   326906
+8:18:45  Going to Hose End
+8:18:45  cycle_count = 156
+8:18:46  39 Time too long at 1. Average is 0 -overshoot_counter = 116
+8:18:46  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:18:46  Cycles =   326907
+8:18:47  Going to Motor End
+8:18:47  cycle_count = 157
+8:18:48  36 Time too long at 164. Average is 149 -overshoot_counter = 97
+8:18:48  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:18:48  Cycles =   326907
+8:18:50  Going to Hose End
+8:18:50  cycle_count = 157
+8:18:51  39 Time too long at 1. Average is 0 -overshoot_counter = 117
+8:18:51  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:18:51  Cycles =   326908
+8:18:52  Going to Motor End
+8:18:52  cycle_count = 158
+8:18:53  36 Time too long at 164. Average is 149 -overshoot_counter = 98
+8:18:53  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:18:53  Cycles =   326908
+8:18:55  Going to Hose End
+8:18:55  cycle_count = 158
+8:18:56  39 Time too long at 1. Average is 0 -overshoot_counter = 118
+8:18:56  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:18:56  Cycles =   326909
+8:18:57  Going to Motor End
+8:18:57  cycle_count = 159
+8:18:58  36 Time too long at 164. Average is 149 -overshoot_counter = 99
+8:18:58  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:18:58  Cycles =   326909
+8:19:0  Going to Hose End
+8:19:0  cycle_count = 159
+8:19:1  39 Time too long at 1. Average is 0 -overshoot_counter = 119
+8:19:1  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:19:1  Cycles =   326910
+8:19:2  Going to Motor End
+8:19:3  cycle_count = 160
+8:19:3  36 Time too long at 164. Average is 149 -overshoot_counter = 100
+8:19:3  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:19:3  Cycles =   326910
+8:19:5  Going to Hose End
+8:19:5  cycle_count = 160
+8:19:5  39 Time too long at 1. Average is 0 -overshoot_counter = 120
+8:19:6  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:19:6  Cycles =   326911
+8:19:7  Going to Motor End
+8:19:7  cycle_count = 161
+8:19:8  36 Time too long at 164. Average is 149 -overshoot_counter = 101
+8:19:8  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:19:8  Cycles =   326911
+8:19:10  Going to Hose End
+8:19:10  cycle_count = 161
+8:19:10  39 Time too long at 1. Average is 0 -overshoot_counter = 121
+8:19:11  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:19:11  Cycles =   326912
+8:19:12  Going to Motor End
+8:19:12  cycle_count = 162
+8:19:13  36 Time too long at 164. Average is 149 -overshoot_counter = 102
+8:19:13  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:19:13  Cycles =   326912
+8:19:15  Going to Hose End
+8:19:15  cycle_count = 162
+8:19:15  39 Time too long at 1. Average is 0 -overshoot_counter = 122
+8:19:16  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:19:16  Cycles =   326913
+8:19:17  Going to Motor End
+8:19:17  cycle_count = 163
+8:19:18  36 Time too long at 164. Average is 149 -overshoot_counter = 103
+8:19:18  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:19:18  Cycles =   326913
+8:19:20  Going to Hose End
+8:19:20  cycle_count = 163
+8:19:20  39 Time too long at 1. Average is 0 -overshoot_counter = 123
+8:19:21  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:19:21  Cycles =   326914
+8:19:22  Going to Motor End
+8:19:22  cycle_count = 164
+8:19:23  36 Time too long at 164. Average is 149 -overshoot_counter = 104
+8:19:23  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:19:23  Cycles =   326914
+8:19:25  Going to Hose End
+8:19:25  cycle_count = 164
+8:19:25  39 Time too long at 1. Average is 0 -overshoot_counter = 124
+8:19:26  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:19:26  Cycles =   326915
+8:19:27  Going to Motor End
+8:19:27  cycle_count = 165
+8:19:28  36 Time too long at 164. Average is 149 -overshoot_counter = 105
+8:19:28  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:19:28  Cycles =   326915
+8:19:30  Going to Hose End
+8:19:30  cycle_count = 165
+8:19:30  39 Time too long at 1. Average is 0 -overshoot_counter = 125
+8:19:31  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:19:31  Cycles =   326916
+8:19:32  Going to Motor End
+8:19:32  cycle_count = 166
+8:19:33  36 Time too long at 164. Average is 149 -overshoot_counter = 106
+8:19:33  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:19:33  Cycles =   326916
+8:19:35  Going to Hose End
+8:19:35  cycle_count = 166
+8:19:35  39 Time too long at 1. Average is 0 -overshoot_counter = 126
+8:19:36  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:19:36  Cycles =   326917
+8:19:37  Going to Motor End
+8:19:37  cycle_count = 167
+8:19:38  36 Time too long at 164. Average is 149 -overshoot_counter = 107
+8:19:38  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:19:38  Cycles =   326917
+8:19:40  Going to Hose End
+8:19:40  cycle_count = 167
+8:19:40  39 Time too long at 1. Average is 0 -overshoot_counter = 127
+8:19:41  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:19:41  Cycles =   326918
+8:19:42  Going to Motor End
+8:19:42  cycle_count = 168
+8:19:43  36 Time too long at 164. Average is 149 -overshoot_counter = 108
+8:19:43  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:19:43  Cycles =   326918
+8:19:45  Going to Hose End
+8:19:45  cycle_count = 168
+8:19:45  39 Time too long at 1. Average is 0 -overshoot_counter = 128
+8:19:45  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:19:46  Cycles =   326919
+8:19:47  Going to Motor End
+8:19:47  cycle_count = 169
+8:19:48  36 _duration_time = 137
+8:19:48  36 -average = 143
+8:19:48  36 -overshoot_counter = 108
+8:19:48  
+8:19:48  Cycles =   326919
+8:19:50  Going to Hose End
+8:19:50  cycle_count = 169
+8:19:50  39 Time too long at 1. Average is 0 -overshoot_counter = 129
+8:19:50  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:19:51  Cycles =   326920
+8:19:52  Going to Motor End
+8:19:52  cycle_count = 170
+8:19:53  36 _duration_time = 154
+8:19:53  36 -average = 148
+8:19:53  36 -overshoot_counter = 108
+8:19:53  
+8:19:53  Cycles =   326920
+8:19:55  Going to Hose End
+8:19:55  cycle_count = 170
+8:19:55  39 Time too long at 1. Average is 0 -overshoot_counter = 130
+8:19:55  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:19:56  Cycles =   326921
+8:19:57  Going to Motor End
+8:19:57  cycle_count = 171
+8:19:58  36 _duration_time = 153
+8:19:58  36 -average = 148
+8:19:58  36 -overshoot_counter = 108
+8:19:58  
+8:19:58  Cycles =   326921
+8:20:0  Going to Hose End
+8:20:0  cycle_count = 171
+8:20:0  39 Time too long at 1. Average is 0 -overshoot_counter = 131
+8:20:0  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:20:1  Cycles =   326922
+8:20:2  Going to Motor End
+8:20:2  cycle_count = 172
+8:20:3  36 _duration_time = 154
+8:20:3  36 -average = 153
+8:20:3  36 -overshoot_counter = 108
+8:20:3  
+8:20:3  Cycles =   326922
+8:20:5  Going to Hose End
+8:20:5  cycle_count = 172
+8:20:5  39 Time too long at 1. Average is 0 -overshoot_counter = 132
+8:20:5  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:20:6  Cycles =   326923
+8:20:7  Going to Motor End
+8:20:7  cycle_count = 173
+8:20:8  36 _duration_time = 153
+8:20:8  36 -average = 153
+8:20:8  36 -overshoot_counter = 108
+8:20:8  
+8:20:8  Cycles =   326923
+8:20:10  Going to Hose End
+8:20:10  cycle_count = 173
+8:20:10  39 Time too long at 1. Average is 0 -overshoot_counter = 133
+8:20:10  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:20:10  Cycles =   326924
+8:20:12  Going to Motor End
+8:20:12  cycle_count = 174
+8:20:13  36 _duration_time = 154
+8:20:13  36 -average = 153
+8:20:13  36 -overshoot_counter = 108
+8:20:13  
+8:20:13  Cycles =   326924
+8:20:15  Going to Hose End
+8:20:15  cycle_count = 174
+8:20:15  39 Time too long at 1. Average is 0 -overshoot_counter = 134
+8:20:15  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:20:15  Cycles =   326925
+8:20:17  Going to Motor End
+8:20:17  cycle_count = 175
+8:20:18  36 _duration_time = 155
+8:20:18  36 -average = 154
+8:20:18  36 -overshoot_counter = 108
+8:20:18  
+8:20:18  Cycles =   326925
+8:20:20  Going to Hose End
+8:20:20  cycle_count = 175
+8:20:20  39 Time too long at 1. Average is 0 -overshoot_counter = 135
+8:20:20  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:20:20  Cycles =   326926
+8:20:22  Going to Motor End
+8:20:22  cycle_count = 176
+8:20:23  36 _duration_time = 157
+8:20:23  36 -average = 155
+8:20:23  36 -overshoot_counter = 108
+8:20:23  
+8:20:23  Cycles =   326926
+8:20:25  Going to Hose End
+8:20:25  cycle_count = 176
+8:20:25  39 Time too long at 1. Average is 0 -overshoot_counter = 136
+8:20:25  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:20:25  Cycles =   326927
+8:20:27  Going to Motor End
+8:20:27  cycle_count = 177
+8:20:28  36 _duration_time = 154
+8:20:28  36 -average = 155
+8:20:28  36 -overshoot_counter = 108
+8:20:28  
+8:20:28  Cycles =   326927
+8:20:30  Going to Hose End
+8:20:30  cycle_count = 177
+8:20:30  39 Time too long at 1. Average is 0 -overshoot_counter = 137
+8:20:30  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:20:30  Cycles =   326928
+8:20:32  Going to Motor End
+8:20:32  cycle_count = 178
+8:20:33  36 _duration_time = 155
+8:20:33  36 -average = 155
+8:20:33  36 -overshoot_counter = 108
+8:20:33  
+8:20:33  Cycles =   326928
+8:20:35  Going to Hose End
+8:20:35  cycle_count = 178
+8:20:35  39 Time too long at 1. Average is 0 -overshoot_counter = 138
+8:20:35  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:20:35  Cycles =   326929
+8:20:37  Going to Motor End
+8:20:37  cycle_count = 179
+8:20:38  36 _duration_time = 154
+8:20:38  36 -average = 154
+8:20:38  36 -overshoot_counter = 108
+8:20:38  
+8:20:38  Cycles =   326929
+8:20:40  Going to Hose End
+8:20:40  cycle_count = 179
+8:20:40  39 Time too long at 1. Average is 0 -overshoot_counter = 139
+8:20:40  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:20:40  Cycles =   326930
+8:20:42  Going to Motor End
+8:20:42  cycle_count = 180
+8:20:43  36 _duration_time = 154
+8:20:43  36 -average = 154
+8:20:43  36 -overshoot_counter = 108
+8:20:43  
+8:20:43  Cycles =   326930
+8:20:45  Going to Hose End
+8:20:45  cycle_count = 180
+8:20:45  39 Time too long at 1. Average is 0 -overshoot_counter = 140
+8:20:45  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:20:45  Cycles =   326931
+8:20:47  Going to Motor End
+8:20:47  cycle_count = 181
+8:20:48  36 _duration_time = 155
+8:20:48  36 -average = 154
+8:20:48  36 -overshoot_counter = 108
+8:20:48  
+8:20:48  Cycles =   326931
+8:20:50  Going to Hose End
+8:20:50  cycle_count = 181
+8:20:50  39 Time too long at 1. Average is 0 -overshoot_counter = 141
+8:20:50  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:20:50  Cycles =   326932
+8:20:52  Going to Motor End
+8:20:52  cycle_count = 182
+8:20:53  36 _duration_time = 155
+8:20:53  36 -average = 154
+8:20:53  36 -overshoot_counter = 108
+8:20:53  
+8:20:53  Cycles =   326932
+8:20:55  Going to Hose End
+8:20:55  cycle_count = 182
+8:20:55  39 Time too long at 1. Average is 0 -overshoot_counter = 142
+8:20:55  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:20:55  Cycles =   326933
+8:20:57  Going to Motor End
+8:20:57  cycle_count = 183
+8:20:58  36 _duration_time = 155
+8:20:58  36 -average = 155
+8:20:58  36 -overshoot_counter = 108
+8:20:58  
+8:20:58  Cycles =   326933
+8:21:0  Going to Hose End
+8:21:0  cycle_count = 183
+8:21:0  39 Time too long at 1. Average is 0 -overshoot_counter = 143
+8:21:0  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:21:0  Cycles =   326934
+8:21:2  Going to Motor End
+8:21:2  cycle_count = 184
+8:21:3  36 _duration_time = 154
+8:21:3  36 -average = 154
+8:21:3  36 -overshoot_counter = 108
+8:21:3  
+8:21:3  Cycles =   326934
+8:21:5  Going to Hose End
+8:21:5  cycle_count = 184
+8:21:5  39 Time too long at 1. Average is 0 -overshoot_counter = 144
+8:21:5  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:21:5  Cycles =   326935
+8:21:7  Going to Motor End
+8:21:7  cycle_count = 185
+8:21:8  36 _duration_time = 154
+8:21:8  36 -average = 154
+8:21:8  36 -overshoot_counter = 108
+8:21:8  
+8:21:8  Cycles =   326935
+8:21:10  Going to Hose End
+8:21:10  cycle_count = 185
+8:21:10  39 Time too long at 1. Average is 0 -overshoot_counter = 145
+8:21:10  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:21:10  Cycles =   326936
+8:21:12  Going to Motor End
+8:21:12  cycle_count = 186
+8:21:13  36 _duration_time = 155
+8:21:13  36 -average = 154
+8:21:13  36 -overshoot_counter = 108
+8:21:13  
+8:21:13  Cycles =   326936
+8:21:15  Going to Hose End
+8:21:15  cycle_count = 186
+8:21:15  39 Time too long at 1. Average is 0 -overshoot_counter = 146
+8:21:15  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:21:15  Cycles =   326937
+8:21:17  Going to Motor End
+8:21:17  cycle_count = 187
+8:21:18  36 _duration_time = 155
+8:21:18  36 -average = 154
+8:21:18  36 -overshoot_counter = 108
+8:21:18  
+8:21:18  Cycles =   326937
+8:21:20  Going to Hose End
+8:21:20  cycle_count = 187
+8:21:20  39 Time too long at 1. Average is 0 -overshoot_counter = 147
+8:21:20  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:21:20  Cycles =   326938
+8:21:22  Going to Motor End
+8:21:22  cycle_count = 188
+8:21:23  36 _duration_time = 154
+8:21:23  36 -average = 154
+8:21:23  36 -overshoot_counter = 108
+8:21:23  
+8:21:23  Cycles =   326938
+8:21:25  Going to Hose End
+8:21:25  cycle_count = 188
+8:21:25  39 Time too long at 1. Average is 0 -overshoot_counter = 148
+8:21:25  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:21:25  Cycles =   326939
+8:21:27  Going to Motor End
+8:21:27  cycle_count = 189
+8:21:28  36 _duration_time = 166
+8:21:28  36 -average = 158
+8:21:28  36 -overshoot_counter = 108
+8:21:28  
+8:21:28  Cycles =   326939
+8:21:30  Going to Hose End
+8:21:30  cycle_count = 189
+8:21:30  39 Time too long at 1. Average is 0 -overshoot_counter = 149
+8:21:30  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:21:30  Cycles =   326940
+8:21:32  Going to Motor End
+8:21:32  cycle_count = 190
+8:21:33  36 _duration_time = 158
+8:21:33  36 -average = 159
+8:21:33  36 -overshoot_counter = 108
+8:21:33  
+8:21:33  Cycles =   326940
+8:21:35  Going to Hose End
+8:21:35  cycle_count = 190
+8:21:35  39 Time too long at 1. Average is 0 -overshoot_counter = 150
+8:21:35  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:21:35  Cycles =   326941
+8:21:37  Going to Motor End
+8:21:37  cycle_count = 191
+8:21:38  36 _duration_time = 155
+8:21:38  36 -average = 159
+8:21:38  36 -overshoot_counter = 108
+8:21:38  
+8:21:38  Cycles =   326941
+8:21:40  Going to Hose End
+8:21:40  cycle_count = 191
+8:21:40  39 Time too long at 1. Average is 0 -overshoot_counter = 151
+8:21:40  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:21:40  Cycles =   326942
+8:21:42  Going to Motor End
+8:21:42  cycle_count = 192
+8:21:43  36 _duration_time = 155
+8:21:43  36 -average = 156
+8:21:43  36 -overshoot_counter = 108
+8:21:43  
+8:21:43  Cycles =   326942
+8:21:45  Going to Hose End
+8:21:45  cycle_count = 192
+8:21:45  39 Time too long at 1. Average is 0 -overshoot_counter = 152
+8:21:45  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:21:45  Cycles =   326943
+8:21:47  Going to Motor End
+8:21:47  cycle_count = 193
+8:21:48  36 _duration_time = 155
+8:21:48  36 -average = 155
+8:21:48  36 -overshoot_counter = 108
+8:21:48  
+8:21:48  Cycles =   326943
+8:21:50  Going to Hose End
+8:21:50  cycle_count = 193
+8:21:50  39 Time too long at 1. Average is 0 -overshoot_counter = 153
+8:21:50  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:21:50  Cycles =   326944
+8:21:52  Going to Motor End
+8:21:52  cycle_count = 194
+8:21:53  36 _duration_time = 155
+8:21:53  36 -average = 155
+8:21:53  36 -overshoot_counter = 108
+8:21:53  
+8:21:53  Cycles =   326944
+8:21:55  Going to Hose End
+8:21:55  cycle_count = 194
+8:21:55  39 Time too long at 1. Average is 0 -overshoot_counter = 154
+8:21:55  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:21:55  Cycles =   326945
+8:21:57  Going to Motor End
+8:21:57  cycle_count = 195
+8:21:58  36 _duration_time = 154
+8:21:58  36 -average = 154
+8:21:58  36 -overshoot_counter = 108
+8:21:58  
+8:21:58  Cycles =   326945
+8:22:0  Going to Hose End
+8:22:0  cycle_count = 195
+8:22:0  39 Time too long at 1. Average is 0 -overshoot_counter = 155
+8:22:0  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:22:0  Cycles =   326946
+8:22:2  Going to Motor End
+8:22:2  cycle_count = 196
+8:22:3  36 _duration_time = 155
+8:22:3  36 -average = 154
+8:22:3  36 -overshoot_counter = 108
+8:22:3  
+8:22:3  Cycles =   326946
+8:22:5  Going to Hose End
+8:22:5  cycle_count = 196
+8:22:5  39 Time too long at 1. Average is 0 -overshoot_counter = 156
+8:22:5  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:22:5  Cycles =   326947
+8:22:7  Going to Motor End
+8:22:7  cycle_count = 197
+8:22:8  36 _duration_time = 156
+8:22:8  36 -average = 155
+8:22:8  36 -overshoot_counter = 108
+8:22:8  
+8:22:8  Cycles =   326947
+8:22:10  Going to Hose End
+8:22:10  cycle_count = 197
+8:22:10  39 Time too long at 1. Average is 0 -overshoot_counter = 157
+8:22:10  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:22:10  Cycles =   326948
+8:22:12  Going to Motor End
+8:22:12  cycle_count = 198
+8:22:13  36 _duration_time = 154
+8:22:13  36 -average = 155
+8:22:13  36 -overshoot_counter = 108
+8:22:13  
+8:22:13  Cycles =   326948
+8:22:15  Going to Hose End
+8:22:15  cycle_count = 198
+8:22:15  39 Time too long at 1. Average is 0 -overshoot_counter = 158
+8:22:15  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:22:15  Cycles =   326949
+8:22:17  Going to Motor End
+8:22:17  cycle_count = 199
+8:22:18  36 _duration_time = 153
+8:22:18  36 -average = 154
+8:22:18  36 -overshoot_counter = 108
+8:22:18  
+8:22:18  Cycles =   326949
+8:22:20  Going to Hose End
+8:22:20  cycle_count = 199
+8:22:20  39 Time too long at 1. Average is 0 -overshoot_counter = 159
+8:22:20  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:22:20  Cycles =   326950
+8:22:22  Going to Motor End
+8:22:22  cycle_count = 200
+8:22:23  36 _duration_time = 155
+8:22:23  36 -average = 154
+8:22:23  36 -overshoot_counter = 108
+8:22:23  
+8:22:23  Cycles =   326950
+8:22:25  Going to Hose End
+8:22:25  cycle_count = 200
+8:22:25  39 Time too long at 1. Average is 0 -overshoot_counter = 160
+8:22:25  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:22:25  Cycles =   326951
+8:22:27  Going to Motor End
+8:22:27  cycle_count = 201
+8:22:28  36 _duration_time = 155
+8:22:28  36 -average = 154
+8:22:28  36 -overshoot_counter = 108
+8:22:28  
+8:22:28  Cycles =   326951
+8:22:30  Going to Hose End
+8:22:30  cycle_count = 201
+8:22:30  39 Time too long at 1. Average is 0 -overshoot_counter = 161
+8:22:30  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:22:30  Cycles =   326952
+8:22:32  Going to Motor End
+8:22:32  cycle_count = 202
+8:22:33  36 _duration_time = 155
+8:22:33  36 -average = 155
+8:22:33  36 -overshoot_counter = 108
+8:22:33  
+8:22:33  Cycles =   326952
+8:22:35  Going to Hose End
+8:22:35  cycle_count = 202
+8:22:35  39 Time too long at 1. Average is 0 -overshoot_counter = 162
+8:22:35  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:22:35  Cycles =   326953
+8:22:37  Going to Motor End
+8:22:37  cycle_count = 203
+8:22:38  36 _duration_time = 152
+8:22:38  36 -average = 154
+8:22:38  36 -overshoot_counter = 108
+8:22:38  
+8:22:38  Cycles =   326953
+8:22:40  Going to Hose End
+8:22:40  cycle_count = 203
+8:22:40  39 Time too long at 1. Average is 0 -overshoot_counter = 163
+8:22:40  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:22:40  Cycles =   326954
+8:22:42  Going to Motor End
+8:22:42  cycle_count = 204
+8:22:43  36 _duration_time = 154
+8:22:43  36 -average = 153
+8:22:43  36 -overshoot_counter = 108
+8:22:43  
+8:22:43  Cycles =   326954
+8:22:45  Going to Hose End
+8:22:45  cycle_count = 204
+8:22:45  39 Time too long at 1. Average is 0 -overshoot_counter = 164
+8:22:45  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:22:45  Cycles =   326955
+8:22:47  Going to Motor End
+8:22:47  cycle_count = 205
+8:22:48  36 _duration_time = 154
+8:22:48  36 -average = 153
+8:22:48  36 -overshoot_counter = 108
+8:22:48  
+8:22:48  Cycles =   326955
+8:22:50  Going to Hose End
+8:22:50  cycle_count = 205
+8:22:50  39 Time too long at 1. Average is 0 -overshoot_counter = 165
+8:22:50  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:22:50  Cycles =   326956
+8:22:52  Going to Motor End
+8:22:52  cycle_count = 206
+8:22:53  36 _duration_time = 154
+8:22:53  36 -average = 154
+8:22:53  36 -overshoot_counter = 108
+8:22:53  
+8:22:53  Cycles =   326956
+8:22:55  Going to Hose End
+8:22:55  cycle_count = 206
+8:22:55  39 Time too long at 1. Average is 0 -overshoot_counter = 166
+8:22:55  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:22:55  Cycles =   326957
+8:22:57  Going to Motor End
+8:22:57  cycle_count = 207
+8:22:58  36 _duration_time = 155
+8:22:58  36 -average = 154
+8:22:58  36 -overshoot_counter = 108
+8:22:58  
+8:22:58  Cycles =   326957
+8:23:0  Going to Hose End
+8:23:0  cycle_count = 207
+8:23:0  39 Time too long at 1. Average is 0 -overshoot_counter = 167
+8:23:0  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:23:0  Cycles =   326958
+8:23:2  Going to Motor End
+8:23:2  cycle_count = 208
+8:23:3  36 _duration_time = 153
+8:23:3  36 -average = 154
+8:23:3  36 -overshoot_counter = 108
+8:23:3  
+8:23:3  Cycles =   326958
+8:23:5  Going to Hose End
+8:23:5  cycle_count = 208
+8:23:5  39 Time too long at 1. Average is 0 -overshoot_counter = 168
+8:23:5  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:23:5  Cycles =   326959
+8:23:7  Going to Motor End
+8:23:7  cycle_count = 209
+8:23:7  36 _duration_time = 154
+8:23:8  36 -average = 154
+8:23:8  36 -overshoot_counter = 108
+8:23:8  
+8:23:8  Cycles =   326959
+8:23:10  Going to Hose End
+8:23:10  cycle_count = 209
+8:23:10  39 Time too long at 1. Average is 0 -overshoot_counter = 169
+8:23:10  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:23:10  Cycles =   326960
+8:23:12  Going to Motor End
+8:23:12  cycle_count = 210
+8:23:12  36 _duration_time = 154
+8:23:13  36 -average = 153
+8:23:13  36 -overshoot_counter = 108
+8:23:13  
+8:23:13  Cycles =   326960
+8:23:15  Going to Hose End
+8:23:15  cycle_count = 210
+8:23:15  39 Time too long at 1. Average is 0 -overshoot_counter = 170
+8:23:15  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:23:15  Cycles =   326961
+8:23:17  Going to Motor End
+8:23:17  cycle_count = 211
+8:23:17  36 _duration_time = 154
+8:23:18  36 -average = 154
+8:23:18  36 -overshoot_counter = 108
+8:23:18  
+8:23:18  Cycles =   326961
+8:23:20  Going to Hose End
+8:23:20  cycle_count = 211
+8:23:20  39 Time too long at 1. Average is 0 -overshoot_counter = 171
+8:23:20  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:23:20  Cycles =   326962
+8:23:22  Going to Motor End
+8:23:22  cycle_count = 212
+8:23:22  36 _duration_time = 154
+8:23:22  36 -average = 154
+8:23:23  36 -overshoot_counter = 108
+8:23:23  
+8:23:23  Cycles =   326962
+8:23:25  Going to Hose End
+8:23:25  cycle_count = 212
+8:23:25  39 Time too long at 1. Average is 0 -overshoot_counter = 172
+8:23:25  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:23:25  Cycles =   326963
+8:23:27  Going to Motor End
+8:23:27  cycle_count = 213
+8:23:27  36 _duration_time = 155
+8:23:28  36 -average = 154
+8:23:28  36 -overshoot_counter = 108
+8:23:28  
+8:23:28  Cycles =   326963
+8:23:30  Going to Hose End
+8:23:30  cycle_count = 213
+8:23:30  39 Time too long at 1. Average is 0 -overshoot_counter = 173
+8:23:30  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:23:30  Cycles =   326964
+8:23:32  Going to Motor End
+8:23:32  cycle_count = 214
+8:23:32  36 _duration_time = 154
+8:23:33  36 -average = 154
+8:23:33  36 -overshoot_counter = 108
+8:23:33  
+8:23:33  Cycles =   326964
+8:23:35  Going to Hose End
+8:23:35  cycle_count = 214
+8:23:35  39 Time too long at 1. Average is 0 -overshoot_counter = 174
+8:23:35  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:23:35  Cycles =   326965
+8:23:37  Going to Motor End
+8:23:37  cycle_count = 215
+8:23:37  36 _duration_time = 154
+8:23:37  36 -average = 154
+8:23:38  36 -overshoot_counter = 108
+8:23:38  
+8:23:38  Cycles =   326965
+8:23:40  Going to Hose End
+8:23:40  cycle_count = 215
+8:23:40  39 Time too long at 1. Average is 0 -overshoot_counter = 175
+8:23:40  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:23:40  Cycles =   326966
+8:23:42  Going to Motor End
+8:23:42  cycle_count = 216
+8:23:42  36 _duration_time = 154
+8:23:43  36 -average = 154
+8:23:43  36 -overshoot_counter = 108
+8:23:43  
+8:23:43  Cycles =   326966
+8:23:45  Going to Hose End
+8:23:45  cycle_count = 216
+8:23:45  39 Time too long at 1. Average is 0 -overshoot_counter = 176
+8:23:45  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:23:45  Cycles =   326967
+8:23:47  Going to Motor End
+8:23:47  cycle_count = 217
+8:23:47  36 _duration_time = 154
+8:23:47  36 -average = 154
+8:23:48  36 -overshoot_counter = 108
+8:23:48  
+8:23:48  Cycles =   326967
+8:23:50  Going to Hose End
+8:23:50  cycle_count = 217
+8:23:50  39 Time too long at 1. Average is 0 -overshoot_counter = 177
+8:23:50  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:23:50  Cycles =   326968
+8:23:52  Going to Motor End
+8:23:52  cycle_count = 218
+8:23:52  36 _duration_time = 154
+8:23:53  36 -average = 154
+8:23:53  36 -overshoot_counter = 108
+8:23:53  
+8:23:53  Cycles =   326968
+8:23:55  Going to Hose End
+8:23:55  cycle_count = 218
+8:23:55  39 Time too long at 1. Average is 0 -overshoot_counter = 178
+8:23:55  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:23:55  Cycles =   326969
+8:23:57  Going to Motor End
+8:23:57  cycle_count = 219
+8:23:57  36 _duration_time = 163
+8:23:58  36 -average = 157
+8:23:58  36 -overshoot_counter = 108
+8:23:58  
+8:23:58  Cycles =   326969
+8:24:0  Going to Hose End
+8:24:0  cycle_count = 219
+8:24:0  39 Time too long at 1. Average is 0 -overshoot_counter = 179
+8:24:0  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:24:0  Cycles =   326970
+8:24:2  Going to Motor End
+8:24:2  cycle_count = 220
+8:24:2  36 _duration_time = 154
+8:24:2  36 -average = 157
+8:24:3  36 -overshoot_counter = 108
+8:24:3  
+8:24:3  Cycles =   326970
+8:24:5  Going to Hose End
+8:24:5  cycle_count = 220
+8:24:5  39 Time too long at 1. Average is 0 -overshoot_counter = 180
+8:24:5  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:24:5  Cycles =   326971
+8:24:7  Going to Motor End
+8:24:7  cycle_count = 221
+8:24:7  36 _duration_time = 154
+8:24:7  36 -average = 157
+8:24:8  36 -overshoot_counter = 108
+8:24:8  
+8:24:8  Cycles =   326971
+8:24:10  Going to Hose End
+8:24:10  cycle_count = 221
+8:24:10  39 Time too long at 1. Average is 0 -overshoot_counter = 181
+8:24:10  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:24:10  Cycles =   326972
+8:24:12  Going to Motor End
+8:24:12  cycle_count = 222
+8:24:12  36 _duration_time = 154
+8:24:12  36 -average = 154
+8:24:13  36 -overshoot_counter = 108
+8:24:13  
+8:24:13  Cycles =   326972
+8:24:15  Going to Hose End
+8:24:15  cycle_count = 222
+8:24:15  39 Time too long at 1. Average is 0 -overshoot_counter = 182
+8:24:15  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:24:15  Cycles =   326973
+8:24:17  Going to Motor End
+8:24:17  cycle_count = 223
+8:24:17  36 _duration_time = 154
+8:24:17  36 -average = 154
+8:24:17  36 -overshoot_counter = 108
+8:24:18  
+8:24:18  Cycles =   326973
+8:24:20  Going to Hose End
+8:24:20  cycle_count = 223
+8:24:20  39 Time too long at 1. Average is 0 -overshoot_counter = 183
+8:24:20  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:24:20  Cycles =   326974
+8:24:22  Going to Motor End
+8:24:22  cycle_count = 224
+8:24:22  36 _duration_time = 154
+8:24:22  36 -average = 154
+8:24:22  36 -overshoot_counter = 108
+8:24:23  
+8:24:23  Cycles =   326974
+8:24:25  Going to Hose End
+8:24:25  cycle_count = 224
+8:24:25  39 Time too long at 1. Average is 0 -overshoot_counter = 184
+8:24:25  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:24:25  Cycles =   326975
+8:24:27  Going to Motor End
+8:24:27  cycle_count = 225
+8:24:27  36 _duration_time = 154
+8:24:27  36 -average = 154
+8:24:27  36 -overshoot_counter = 108
+8:24:28  
+8:24:28  Cycles =   326975
+8:24:30  Going to Hose End
+8:24:30  cycle_count = 225
+8:24:30  39 Time too long at 1. Average is 0 -overshoot_counter = 185
+8:24:30  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:24:30  Cycles =   326976
+8:24:32  Going to Motor End
+8:24:32  cycle_count = 226
+8:24:32  36 _duration_time = 154
+8:24:32  36 -average = 154
+8:24:32  36 -overshoot_counter = 108
+8:24:33  
+8:24:33  Cycles =   326976
+8:24:35  Going to Hose End
+8:24:35  cycle_count = 226
+8:24:35  39 Time too long at 1. Average is 0 -overshoot_counter = 186
+8:24:35  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:24:35  Cycles =   326977
+8:24:37  Going to Motor End
+8:24:37  cycle_count = 227
+8:24:37  36 _duration_time = 154
+8:24:37  36 -average = 154
+8:24:37  36 -overshoot_counter = 108
+8:24:37  
+8:24:38  Cycles =   326977
+8:24:40  Going to Hose End
+8:24:40  cycle_count = 227
+8:24:40  39 Time too long at 1. Average is 0 -overshoot_counter = 187
+8:24:40  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:24:40  Cycles =   326978
+8:24:42  Going to Motor End
+8:24:42  cycle_count = 228
+8:24:42  36 _duration_time = 154
+8:24:42  36 -average = 154
+8:24:42  36 -overshoot_counter = 108
+8:24:43  
+8:24:43  Cycles =   326978
+8:24:45  Going to Hose End
+8:24:45  cycle_count = 228
+8:24:45  39 Time too long at 1. Average is 0 -overshoot_counter = 188
+8:24:45  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:24:45  Cycles =   326979
+8:24:47  Going to Motor End
+8:24:47  cycle_count = 229
+8:24:47  36 _duration_time = 155
+8:24:47  36 -average = 154
+8:24:47  36 -overshoot_counter = 108
+8:24:48  
+8:24:48  Cycles =   326979
+8:24:50  Going to Hose End
+8:24:50  cycle_count = 229
+8:24:50  39 Time too long at 1. Average is 0 -overshoot_counter = 189
+8:24:50  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:24:50  Cycles =   326980
+8:24:52  Going to Motor End
+8:24:52  cycle_count = 230
+8:24:52  36 _duration_time = 155
+8:24:52  36 -average = 154
+8:24:52  36 -overshoot_counter = 108
+8:24:52  
+8:24:53  Cycles =   326980
+8:24:55  Going to Hose End
+8:24:55  cycle_count = 230
+8:24:55  39 Time too long at 1. Average is 0 -overshoot_counter = 190
+8:24:55  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:24:55  Cycles =   326981
+8:24:57  Going to Motor End
+8:24:57  cycle_count = 231
+8:24:57  36 _duration_time = 156
+8:24:57  36 -average = 155
+8:24:57  36 -overshoot_counter = 108
+8:24:57  
+8:24:58  Cycles =   326981
+8:25:0  Going to Hose End
+8:25:0  cycle_count = 231
+8:25:0  39 Time too long at 1. Average is 0 -overshoot_counter = 191
+8:25:0  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:25:0  Cycles =   326982
+8:25:2  Going to Motor End
+8:25:2  cycle_count = 232
+8:25:2  36 _duration_time = 163
+8:25:2  36 -average = 158
+8:25:2  36 -overshoot_counter = 108
+8:25:3  
+8:25:3  Cycles =   326982
+8:25:5  Going to Hose End
+8:25:5  cycle_count = 232
+8:25:5  39 Time too long at 1. Average is 0 -overshoot_counter = 192
+8:25:5  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:25:5  Cycles =   326983
+8:25:7  Going to Motor End
+8:25:7  cycle_count = 233
+8:25:7  36 _duration_time = 155
+8:25:7  36 -average = 158
+8:25:7  36 -overshoot_counter = 108
+8:25:7  
+8:25:8  Cycles =   326983
+8:25:10  Going to Hose End
+8:25:10  cycle_count = 233
+8:25:10  39 Time too long at 1. Average is 0 -overshoot_counter = 193
+8:25:10  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:25:10  Cycles =   326984
+8:25:12  Going to Motor End
+8:25:12  cycle_count = 234
+8:25:12  36 _duration_time = 154
+8:25:12  36 -average = 157
+8:25:12  36 -overshoot_counter = 108
+8:25:12  
+8:25:13  Cycles =   326984
+8:25:15  Going to Hose End
+8:25:15  cycle_count = 234
+8:25:15  39 Time too long at 1. Average is 0 -overshoot_counter = 194
+8:25:15  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:25:15  Cycles =   326985
+8:25:17  Going to Motor End
+8:25:17  cycle_count = 235
+8:25:17  36 _duration_time = 154
+8:25:17  36 -average = 154
+8:25:17  36 -overshoot_counter = 108
+8:25:17  
+8:25:18  Cycles =   326985
+8:25:20  Going to Hose End
+8:25:20  cycle_count = 235
+8:25:20  39 Time too long at 1. Average is 0 -overshoot_counter = 195
+8:25:20  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:25:20  Cycles =   326986
+8:25:22  Going to Motor End
+8:25:22  cycle_count = 236
+8:25:22  36 _duration_time = 154
+8:25:22  36 -average = 154
+8:25:22  36 -overshoot_counter = 108
+8:25:22  
+8:25:23  Cycles =   326986
+8:25:25  Going to Hose End
+8:25:25  cycle_count = 236
+8:25:25  39 Time too long at 1. Average is 0 -overshoot_counter = 196
+8:25:25  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:25:25  Cycles =   326987
+8:25:27  Going to Motor End
+8:25:27  cycle_count = 237
+8:25:27  36 _duration_time = 155
+8:25:27  36 -average = 154
+8:25:27  36 -overshoot_counter = 108
+8:25:27  
+8:25:28  Cycles =   326987
+8:25:30  Going to Hose End
+8:25:30  cycle_count = 237
+8:25:30  39 Time too long at 1. Average is 0 -overshoot_counter = 197
+8:25:30  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:25:30  Cycles =   326988
+8:25:32  Going to Motor End
+8:25:32  cycle_count = 238
+8:25:32  36 _duration_time = 155
+8:25:32  36 -average = 154
+8:25:32  36 -overshoot_counter = 108
+8:25:32  
+8:25:33  Cycles =   326988
+8:25:35  Going to Hose End
+8:25:35  cycle_count = 238
+8:25:35  39 Time too long at 1. Average is 0 -overshoot_counter = 198
+8:25:35  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:25:35  Cycles =   326989
+8:25:37  Going to Motor End
+8:25:37  cycle_count = 239
+8:25:37  36 _duration_time = 156
+8:25:37  36 -average = 155
+8:25:37  36 -overshoot_counter = 108
+8:25:37  
+8:25:38  Cycles =   326989
+8:25:40  Going to Hose End
+8:25:40  cycle_count = 239
+8:25:40  39 Time too long at 1. Average is 0 -overshoot_counter = 199
+8:25:40  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:25:40  Cycles =   326990
+8:25:42  Going to Motor End
+8:25:42  cycle_count = 240
+8:25:42  36 _duration_time = 156
+8:25:42  36 -average = 155
+8:25:42  36 -overshoot_counter = 108
+8:25:42  
+8:25:43  Cycles =   326990
+8:25:45  Going to Hose End
+8:25:45  cycle_count = 240
+8:25:45  39 Time too long at 1. Average is 0 -overshoot_counter = 200
+8:25:45  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:25:45  Cycles =   326991
+8:25:47  Going to Motor End
+8:25:47  cycle_count = 241
+8:25:47  36 _duration_time = 153
+8:25:47  36 -average = 155
+8:25:47  36 -overshoot_counter = 108
+8:25:47  
+8:25:48  Cycles =   326991
+8:25:50  Going to Hose End
+8:25:50  cycle_count = 241
+8:25:50  39 Time too long at 1. Average is 0 -overshoot_counter = 201
+8:25:50  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:25:50  Cycles =   326992
+8:25:52  Going to Motor End
+8:25:52  cycle_count = 242
+8:25:52  36 _duration_time = 154
+8:25:52  36 -average = 154
+8:25:52  36 -overshoot_counter = 108
+8:25:52  
+8:25:53  Cycles =   326992
+8:25:55  Going to Hose End
+8:25:55  cycle_count = 242
+8:25:55  39 Time too long at 1. Average is 0 -overshoot_counter = 202
+8:25:55  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:25:55  Cycles =   326993
+8:25:57  Going to Motor End
+8:25:57  cycle_count = 243
+8:25:57  36 _duration_time = 151
+8:25:57  36 -average = 152
+8:25:57  36 -overshoot_counter = 108
+8:25:57  
+8:25:58  Cycles =   326993
+8:26:0  Going to Hose End
+8:26:0  cycle_count = 243
+8:26:0  39 Time too long at 1. Average is 0 -overshoot_counter = 203
+8:26:0  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:26:0  Cycles =   326994
+8:26:2  Going to Motor End
+8:26:2  cycle_count = 244
+8:26:2  36 _duration_time = 154
+8:26:2  36 -average = 153
+8:26:2  36 -overshoot_counter = 108
+8:26:2  
+8:26:3  Cycles =   326994
+8:26:5  Going to Hose End
+8:26:5  cycle_count = 244
+8:26:5  39 Time too long at 1. Average is 0 -overshoot_counter = 204
+8:26:5  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:26:5  Cycles =   326995
+8:26:7  Going to Motor End
+8:26:7  cycle_count = 245
+8:26:7  36 _duration_time = 155
+8:26:7  36 -average = 153
+8:26:7  36 -overshoot_counter = 108
+8:26:7  
+8:26:7  Cycles =   326995
+8:26:10  Going to Hose End
+8:26:10  cycle_count = 245
+8:26:10  39 Time too long at 1. Average is 0 -overshoot_counter = 205
+8:26:10  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:26:10  Cycles =   326996
+8:26:12  Going to Motor End
+8:26:12  cycle_count = 246
+8:26:12  36 _duration_time = 150
+8:26:12  36 -average = 153
+8:26:12  36 -overshoot_counter = 108
+8:26:12  
+8:26:13  Cycles =   326996
+8:26:15  Going to Hose End
+8:26:15  cycle_count = 246
+8:26:15  39 Time too long at 1. Average is 0 -overshoot_counter = 206
+8:26:15  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:26:15  Cycles =   326997
+8:26:17  Going to Motor End
+8:26:17  cycle_count = 247
+8:26:17  36 _duration_time = 153
+8:26:17  36 -average = 152
+8:26:17  36 -overshoot_counter = 108
+8:26:17  
+8:26:18  Cycles =   326997
+8:26:20  Going to Hose End
+8:26:20  cycle_count = 247
+8:26:20  39 Time too long at 1. Average is 0 -overshoot_counter = 207
+8:26:20  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:26:20  Cycles =   326998
+8:26:22  Going to Motor End
+8:26:22  cycle_count = 248
+8:26:22  36 _duration_time = 157
+8:26:22  36 -average = 153
+8:26:22  36 -overshoot_counter = 108
+8:26:22  
+8:26:23  Cycles =   326998
+8:26:25  Going to Hose End
+8:26:25  cycle_count = 248
+8:26:25  39 Time too long at 1. Average is 0 -overshoot_counter = 208
+8:26:25  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:26:25  Cycles =   326999
+8:26:27  Going to Motor End
+8:26:27  cycle_count = 249
+8:26:27  36 _duration_time = 156
+8:26:27  36 -average = 155
+8:26:27  36 -overshoot_counter = 108
+8:26:27  
+8:26:27  Cycles =   326999
+8:26:30  Going to Hose End
+8:26:30  cycle_count = 249
+8:26:30  39 Time too long at 1. Average is 0 -overshoot_counter = 209
+8:26:30  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:26:30  Cycles =   327000
+8:26:32  Going to Motor End
+8:26:32  cycle_count = 250
+8:26:32  36 _duration_time = 156
+8:26:32  36 -average = 156
+8:26:32  36 -overshoot_counter = 108
+8:26:32  
+8:26:33  Cycles =   327000
+8:26:35  Going to Hose End
+8:26:35  cycle_count = 250
+8:26:35  39 Time too long at 1. Average is 0 -overshoot_counter = 210
+8:26:35  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:26:35  Cycles =   327001
+8:26:37  Going to Motor End
+8:26:37  cycle_count = 251
+8:26:37  36 _duration_time = 160
+8:26:37  36 -average = 157
+8:26:37  36 -overshoot_counter = 108
+8:26:37  
+8:26:38  Cycles =   327001
+8:26:40  Going to Hose End
+8:26:40  cycle_count = 251
+8:26:40  39 Time too long at 1. Average is 0 -overshoot_counter = 211
+8:26:40  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:26:40  Cycles =   327002
+8:26:42  Going to Motor End
+8:26:42  cycle_count = 252
+8:26:42  36 _duration_time = 155
+8:26:42  36 -average = 157
+8:26:42  36 -overshoot_counter = 108
+8:26:42  
+8:26:42  Cycles =   327002
+8:26:45  Going to Hose End
+8:26:45  cycle_count = 252
+8:26:45  39 Time too long at 1. Average is 0 -overshoot_counter = 212
+8:26:45  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:26:45  Cycles =   327003
+8:26:47  Going to Motor End
+8:26:47  cycle_count = 253
+8:26:47  36 _duration_time = 154
+8:26:47  36 -average = 156
+8:26:47  36 -overshoot_counter = 108
+8:26:47  
+8:26:47  Cycles =   327003
+8:26:50  Going to Hose End
+8:26:50  cycle_count = 253
+8:26:50  39 Time too long at 1. Average is 0 -overshoot_counter = 213
+8:26:50  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:26:50  Cycles =   327004
+8:26:52  Going to Motor End
+8:26:52  cycle_count = 254
+8:26:52  36 _duration_time = 154
+8:26:52  36 -average = 154
+8:26:52  36 -overshoot_counter = 108
+8:26:52  
+8:26:52  Cycles =   327004
+8:26:55  Going to Hose End
+8:26:55  cycle_count = 254
+8:26:55  39 Time too long at 1. Average is 0 -overshoot_counter = 214
+8:26:55  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:26:55  Cycles =   327005
+8:26:57  Going to Motor End
+8:26:57  cycle_count = 255
+8:26:57  36 _duration_time = 128
+8:26:57  36 -average = 145
+8:26:57  36 -overshoot_counter = 108
+8:26:57  
+8:26:57  Cycles =   327005
+8:27:0  Going to Hose End
+8:27:0  cycle_count = 255
+8:27:0  39 Time too long at 1. Average is 0 -overshoot_counter = 215
+8:27:0  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:27:0  Cycles =   327006
+8:27:2  Going to Motor End
+8:27:2  cycle_count = 256
+8:27:2  36 _duration_time = 154
+8:27:2  36 -average = 145
+8:27:2  36 -overshoot_counter = 108
+8:27:2  
+8:27:2  Cycles =   327006
+8:27:5  Going to Hose End
+8:27:5  cycle_count = 256
+8:27:5  39 Time too long at 1. Average is 0 -overshoot_counter = 216
+8:27:5  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:27:5  Cycles =   327007
+8:27:7  Going to Motor End
+8:27:7  cycle_count = 257
+8:27:7  36 Time too long at 160. Average is 145 -overshoot_counter = 109
+8:27:7  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:27:7  Cycles =   327007
+8:27:10  Going to Hose End
+8:27:10  cycle_count = 257
+8:27:10  39 Time too long at 1. Average is 0 -overshoot_counter = 217
+8:27:10  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:27:10  Cycles =   327008
+8:27:12  Going to Motor End
+8:27:12  cycle_count = 258
+8:27:12  36 Time too long at 160. Average is 145 -overshoot_counter = 110
+8:27:12  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:27:12  Cycles =   327008
+8:27:15  Going to Hose End
+8:27:15  cycle_count = 258
+8:27:15  39 Time too long at 1. Average is 0 -overshoot_counter = 218
+8:27:15  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:27:15  Cycles =   327009
+8:27:17  Going to Motor End
+8:27:17  cycle_count = 259
+8:27:17  36 Time too long at 160. Average is 145 -overshoot_counter = 111
+8:27:17  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:27:17  Cycles =   327009
+8:27:20  Going to Hose End
+8:27:20  cycle_count = 259
+8:27:20  39 Time too long at 1. Average is 0 -overshoot_counter = 219
+8:27:20  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:27:20  Cycles =   327010
+8:27:22  Going to Motor End
+8:27:22  cycle_count = 260
+8:27:22  36 Time too long at 160. Average is 145 -overshoot_counter = 112
+8:27:22  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:27:22  Cycles =   327010
+8:27:25  Going to Hose End
+8:27:25  cycle_count = 260
+8:27:25  39 Time too long at 1. Average is 0 -overshoot_counter = 220
+8:27:25  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:27:25  Cycles =   327011
+8:27:27  Going to Motor End
+8:27:27  cycle_count = 261
+8:27:27  36 Time too long at 160. Average is 145 -overshoot_counter = 113
+8:27:27  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:27:27  Cycles =   327011
+8:27:30  Going to Hose End
+8:27:30  cycle_count = 261
+8:27:30  39 Time too long at 1. Average is 0 -overshoot_counter = 221
+8:27:30  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:27:30  Cycles =   327012
+8:27:32  Going to Motor End
+8:27:32  cycle_count = 262
+8:27:32  36 _duration_time = 159
+8:27:32  36 -average = 147
+8:27:32  36 -overshoot_counter = 113
+8:27:32  
+8:27:32  Cycles =   327012
+8:27:35  Going to Hose End
+8:27:35  cycle_count = 262
+8:27:35  39 Time too long at 1. Average is 0 -overshoot_counter = 222
+8:27:35  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:27:35  Cycles =   327013
+8:27:37  Going to Motor End
+8:27:37  cycle_count = 263
+8:27:37  36 _duration_time = 154
+8:27:37  36 -average = 155
+8:27:37  36 -overshoot_counter = 113
+8:27:37  
+8:27:37  Cycles =   327013
+8:27:40  Going to Hose End
+8:27:40  cycle_count = 263
+8:27:40  39 Time too long at 1. Average is 0 -overshoot_counter = 223
+8:27:40  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:27:40  Cycles =   327014
+8:27:42  Going to Motor End
+8:27:42  cycle_count = 264
+8:27:42  36 _duration_time = 155
+8:27:42  36 -average = 156
+8:27:42  36 -overshoot_counter = 113
+8:27:42  
+8:27:42  Cycles =   327014
+8:27:45  Going to Hose End
+8:27:45  cycle_count = 264
+8:27:45  39 Time too long at 1. Average is 0 -overshoot_counter = 224
+8:27:45  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:27:45  Cycles =   327015
+8:27:47  Going to Motor End
+8:27:47  cycle_count = 265
+8:27:47  36 _duration_time = 152
+8:27:47  36 -average = 153
+8:27:47  36 -overshoot_counter = 113
+8:27:47  
+8:27:47  Cycles =   327015
+8:27:50  Going to Hose End
+8:27:50  cycle_count = 265
+8:27:50  39 Time too long at 1. Average is 0 -overshoot_counter = 225
+8:27:50  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:27:50  Cycles =   327016
+8:27:52  Going to Motor End
+8:27:52  cycle_count = 266
+8:27:52  36 _duration_time = 155
+8:27:52  36 -average = 154
+8:27:52  36 -overshoot_counter = 113
+8:27:52  
+8:27:52  Cycles =   327016
+8:27:55  Going to Hose End
+8:27:55  cycle_count = 266
+8:27:55  39 Time too long at 1. Average is 0 -overshoot_counter = 226
+8:27:55  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:27:55  Cycles =   327017
+8:27:57  Going to Motor End
+8:27:57  cycle_count = 267
+8:27:57  36 _duration_time = 159
+8:27:57  36 -average = 155
+8:27:57  36 -overshoot_counter = 113
+8:27:57  
+8:27:57  Cycles =   327017
+8:28:0  Going to Hose End
+8:28:0  cycle_count = 267
+8:28:0  39 Time too long at 1. Average is 0 -overshoot_counter = 227
+8:28:0  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:28:0  Cycles =   327018
+8:28:2  Going to Motor End
+8:28:2  cycle_count = 268
+8:28:2  36 _duration_time = 155
+8:28:2  36 -average = 156
+8:28:2  36 -overshoot_counter = 113
+8:28:2  
+8:28:2  Cycles =   327018
+8:28:5  Going to Hose End
+8:28:5  cycle_count = 268
+8:28:5  39 Time too long at 1. Average is 0 -overshoot_counter = 228
+8:28:5  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:28:5  Cycles =   327019
+8:28:7  Going to Motor End
+8:28:7  cycle_count = 269
+8:28:7  36 _duration_time = 155
+8:28:7  36 -average = 156
+8:28:7  36 -overshoot_counter = 113
+8:28:7  
+8:28:7  Cycles =   327019
+8:28:10  Going to Hose End
+8:28:10  cycle_count = 269
+8:28:10  39 Time too long at 1. Average is 0 -overshoot_counter = 229
+8:28:10  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:28:10  Cycles =   327020
+8:28:12  Going to Motor End
+8:28:12  cycle_count = 270
+8:28:12  36 _duration_time = 159
+8:28:12  36 -average = 156
+8:28:12  36 -overshoot_counter = 113
+8:28:12  
+8:28:12  Cycles =   327020
+8:28:15  Going to Hose End
+8:28:15  cycle_count = 270
+8:28:15  39 Time too long at 1. Average is 0 -overshoot_counter = 230
+8:28:15  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:28:15  Cycles =   327021
+8:28:17  Going to Motor End
+8:28:17  cycle_count = 271
+8:28:17  36 _duration_time = 155
+8:28:17  36 -average = 156
+8:28:17  36 -overshoot_counter = 113
+8:28:17  
+8:28:17  Cycles =   327021
+8:28:20  Going to Hose End
+8:28:20  cycle_count = 271
+8:28:20  39 Time too long at 1. Average is 0 -overshoot_counter = 231
+8:28:20  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:28:20  Cycles =   327022
+8:28:22  Going to Motor End
+8:28:22  cycle_count = 272
+8:28:22  36 _duration_time = 155
+8:28:22  36 -average = 156
+8:28:22  36 -overshoot_counter = 113
+8:28:22  
+8:28:22  Cycles =   327022
+8:28:25  Going to Hose End
+8:28:25  cycle_count = 272
+8:28:25  39 Time too long at 1. Average is 0 -overshoot_counter = 232
+8:28:25  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:28:25  Cycles =   327023
+8:28:27  Going to Motor End
+8:28:27  cycle_count = 273
+8:28:27  36 _duration_time = 157
+8:28:27  36 -average = 155
+8:28:27  36 -overshoot_counter = 113
+8:28:27  
+8:28:27  Cycles =   327023
+8:28:30  Going to Hose End
+8:28:30  cycle_count = 273
+8:28:30  39 Time too long at 1. Average is 0 -overshoot_counter = 233
+8:28:30  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:28:30  Cycles =   327024
+8:28:32  Going to Motor End
+8:28:32  cycle_count = 274
+8:28:32  36 _duration_time = 154
+8:28:32  36 -average = 155
+8:28:32  36 -overshoot_counter = 113
+8:28:32  
+8:28:32  Cycles =   327024
+8:28:35  Going to Hose End
+8:28:35  cycle_count = 274
+8:28:35  39 Time too long at 1. Average is 0 -overshoot_counter = 234
+8:28:35  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:28:35  Cycles =   327025
+8:28:37  Going to Motor End
+8:28:37  cycle_count = 275
+8:28:37  36 _duration_time = 155
+8:28:37  36 -average = 155
+8:28:37  36 -overshoot_counter = 113
+8:28:37  
+8:28:37  Cycles =   327025
+8:28:40  Going to Hose End
+8:28:40  cycle_count = 275
+8:28:40  39 Time too long at 1. Average is 0 -overshoot_counter = 235
+8:28:40  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:28:40  Cycles =   327026
+8:28:42  Going to Motor End
+8:28:42  cycle_count = 276
+8:28:42  36 _duration_time = 154
+8:28:42  36 -average = 154
+8:28:42  36 -overshoot_counter = 113
+8:28:42  
+8:28:42  Cycles =   327026
+8:28:45  Going to Hose End
+8:28:45  cycle_count = 276
+8:28:45  39 Time too long at 1. Average is 0 -overshoot_counter = 236
+8:28:45  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:28:45  Cycles =   327027
+8:28:47  Going to Motor End
+8:28:47  cycle_count = 277
+8:28:47  36 _duration_time = 155
+8:28:47  36 -average = 154
+8:28:47  36 -overshoot_counter = 113
+8:28:47  
+8:28:47  Cycles =   327027
+8:28:50  Going to Hose End
+8:28:50  cycle_count = 277
+8:28:50  39 Time too long at 1. Average is 0 -overshoot_counter = 237
+8:28:50  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:28:50  Cycles =   327028
+8:28:52  Going to Motor End
+8:28:52  cycle_count = 278
+8:28:52  36 _duration_time = 155
+8:28:52  36 -average = 154
+8:28:52  36 -overshoot_counter = 113
+8:28:52  
+8:28:52  Cycles =   327028
+8:28:55  Going to Hose End
+8:28:55  cycle_count = 278
+8:28:55  39 Time too long at 1. Average is 0 -overshoot_counter = 238
+8:28:55  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:28:55  Cycles =   327029
+8:28:57  Going to Motor End
+8:28:57  cycle_count = 279
+8:28:57  36 _duration_time = 154
+8:28:57  36 -average = 154
+8:28:57  36 -overshoot_counter = 113
+8:28:57  
+8:28:57  Cycles =   327029
+8:29:0  Going to Hose End
+8:29:0  cycle_count = 279
+8:29:0  39 Time too long at 1. Average is 0 -overshoot_counter = 239
+8:29:0  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:29:0  Cycles =   327030
+8:29:2  Going to Motor End
+8:29:2  cycle_count = 280
+8:29:2  36 _duration_time = 154
+8:29:2  36 -average = 154
+8:29:2  36 -overshoot_counter = 113
+8:29:2  
+8:29:2  Cycles =   327030
+8:29:5  Going to Hose End
+8:29:5  cycle_count = 280
+8:29:5  39 Time too long at 1. Average is 0 -overshoot_counter = 240
+8:29:5  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:29:5  Cycles =   327031
+8:29:7  Going to Motor End
+8:29:7  cycle_count = 281
+8:29:7  36 _duration_time = 155
+8:29:7  36 -average = 154
+8:29:7  36 -overshoot_counter = 113
+8:29:7  
+8:29:7  Cycles =   327031
+8:29:10  Going to Hose End
+8:29:10  cycle_count = 281
+8:29:10  39 Time too long at 1. Average is 0 -overshoot_counter = 241
+8:29:10  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:29:10  Cycles =   327032
+8:29:12  Going to Motor End
+8:29:12  cycle_count = 282
+8:29:12  36 _duration_time = 155
+8:29:12  36 -average = 154
+8:29:12  36 -overshoot_counter = 113
+8:29:12  
+8:29:12  Cycles =   327032
+8:29:15  Going to Hose End
+8:29:15  cycle_count = 282
+8:29:15  39 Time too long at 1. Average is 0 -overshoot_counter = 242
+8:29:15  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:29:15  Cycles =   327033
+8:29:17  Going to Motor End
+8:29:17  cycle_count = 283
+8:29:17  36 _duration_time = 156
+8:29:17  36 -average = 155
+8:29:17  36 -overshoot_counter = 113
+8:29:17  
+8:29:17  Cycles =   327033
+8:29:20  Going to Hose End
+8:29:20  cycle_count = 283
+8:29:20  39 Time too long at 1. Average is 0 -overshoot_counter = 243
+8:29:20  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:29:20  Cycles =   327034
+8:29:22  Going to Motor End
+8:29:22  cycle_count = 284
+8:29:22  36 _duration_time = 155
+8:29:22  36 -average = 155
+8:29:22  36 -overshoot_counter = 113
+8:29:22  
+8:29:22  Cycles =   327034
+8:29:25  Going to Hose End
+8:29:25  cycle_count = 284
+8:29:25  39 Time too long at 1. Average is 0 -overshoot_counter = 244
+8:29:25  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:29:25  Cycles =   327035
+8:29:27  Going to Motor End
+8:29:27  cycle_count = 285
+8:29:27  36 _duration_time = 155
+8:29:27  36 -average = 155
+8:29:27  36 -overshoot_counter = 113
+8:29:27  
+8:29:27  Cycles =   327035
+8:29:30  Going to Hose End
+8:29:30  cycle_count = 285
+8:29:30  39 Time too long at 1. Average is 0 -overshoot_counter = 245
+8:29:30  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:29:30  Cycles =   327036
+8:29:32  Going to Motor End
+8:29:32  cycle_count = 286
+8:29:32  36 _duration_time = 156
+8:29:32  36 -average = 155
+8:29:32  36 -overshoot_counter = 113
+8:29:32  
+8:29:32  Cycles =   327036
+8:29:35  Going to Hose End
+8:29:35  cycle_count = 286
+8:29:35  39 Time too long at 1. Average is 0 -overshoot_counter = 246
+8:29:35  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:29:35  Cycles =   327037
+8:29:37  Going to Motor End
+8:29:37  cycle_count = 287
+8:29:37  36 _duration_time = 154
+8:29:37  36 -average = 155
+8:29:37  36 -overshoot_counter = 113
+8:29:37  
+8:29:37  Cycles =   327037
+8:29:40  Going to Hose End
+8:29:40  cycle_count = 287
+8:29:40  39 Time too long at 1. Average is 0 -overshoot_counter = 247
+8:29:40  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:29:40  Cycles =   327038
+8:29:42  Going to Motor End
+8:29:42  cycle_count = 288
+8:29:42  36 _duration_time = 155
+8:29:42  36 -average = 155
+8:29:42  36 -overshoot_counter = 113
+8:29:42  
+8:29:42  Cycles =   327038
+8:29:45  Going to Hose End
+8:29:45  cycle_count = 288
+8:29:45  39 Time too long at 1. Average is 0 -overshoot_counter = 248
+8:29:45  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:29:45  Cycles =   327039
+8:29:47  Going to Motor End
+8:29:47  cycle_count = 289
+8:29:47  36 _duration_time = 155
+8:29:47  36 -average = 154
+8:29:47  36 -overshoot_counter = 113
+8:29:47  
+8:29:47  Cycles =   327039
+8:29:50  Going to Hose End
+8:29:50  cycle_count = 289
+8:29:50  39 Time too long at 1. Average is 0 -overshoot_counter = 249
+8:29:50  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:29:50  Cycles =   327040
+8:29:52  Going to Motor End
+8:29:52  cycle_count = 290
+8:29:52  36 _duration_time = 153
+8:29:52  36 -average = 154
+8:29:52  36 -overshoot_counter = 113
+8:29:52  
+8:29:52  Cycles =   327040
+8:29:55  Going to Hose End
+8:29:55  cycle_count = 290
+8:29:55  39 Time too long at 1. Average is 0 -overshoot_counter = 250
+8:29:55  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:29:55  Cycles =   327041
+8:29:57  Going to Motor End
+8:29:57  cycle_count = 291
+8:29:57  36 _duration_time = 154
+8:29:57  36 -average = 154
+8:29:57  36 -overshoot_counter = 113
+8:29:57  
+8:29:57  Cycles =   327041
+8:30:0  Going to Hose End
+8:30:0  cycle_count = 291
+8:30:0  39 Time too long at 1. Average is 0 -overshoot_counter = 251
+8:30:0  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:30:0  Cycles =   327042
+8:30:2  Going to Motor End
+8:30:2  cycle_count = 292
+8:30:2  36 _duration_time = 161
+8:30:2  36 -average = 156
+8:30:2  36 -overshoot_counter = 113
+8:30:2  
+8:30:2  Cycles =   327042
+8:30:5  Going to Hose End
+8:30:5  cycle_count = 292
+8:30:5  39 Time too long at 1. Average is 0 -overshoot_counter = 252
+8:30:5  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:30:5  Cycles =   327043
+8:30:7  Going to Motor End
+8:30:7  cycle_count = 293
+8:30:7  36 _duration_time = 154
+8:30:7  36 -average = 156
+8:30:7  36 -overshoot_counter = 113
+8:30:7  
+8:30:7  Cycles =   327043
+8:30:10  Going to Hose End
+8:30:10  cycle_count = 293
+8:30:10  39 Time too long at 1. Average is 0 -overshoot_counter = 253
+8:30:10  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:30:10  Cycles =   327044
+8:30:12  Going to Motor End
+8:30:12  cycle_count = 294
+8:30:12  36 _duration_time = 161
+8:30:12  36 -average = 158
+8:30:12  36 -overshoot_counter = 113
+8:30:12  
+8:30:12  Cycles =   327044
+8:30:15  Going to Hose End
+8:30:15  cycle_count = 294
+8:30:15  39 Time too long at 1. Average is 0 -overshoot_counter = 254
+8:30:15  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:30:15  Cycles =   327045
+8:30:17  Going to Motor End
+8:30:17  cycle_count = 295
+8:30:17  36 _duration_time = 154
+8:30:17  36 -average = 156
+8:30:17  36 -overshoot_counter = 113
+8:30:17  
+8:30:17  Cycles =   327045
+8:30:20  Going to Hose End
+8:30:20  cycle_count = 295
+8:30:20  39 Time too long at 1. Average is 0 -overshoot_counter = 255
+8:30:20  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:30:20  Cycles =   327046
+8:30:22  Going to Motor End
+8:30:22  cycle_count = 296
+8:30:22  36 _duration_time = 153
+8:30:22  36 -average = 156
+8:30:22  36 -overshoot_counter = 113
+8:30:22  
+8:30:22  Cycles =   327046
+8:30:25  Going to Hose End
+8:30:25  cycle_count = 296
+8:30:25  39 Time too long at 1. Average is 0 -overshoot_counter = 256
+8:30:25  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:30:25  Cycles =   327047
+8:30:27  Going to Motor End
+8:30:27  cycle_count = 297
+8:30:27  36 _duration_time = 153
+8:30:27  36 -average = 153
+8:30:27  36 -overshoot_counter = 113
+8:30:27  
+8:30:27  Cycles =   327047
+8:30:30  Going to Hose End
+8:30:30  cycle_count = 297
+8:30:30  39 Time too long at 1. Average is 0 -overshoot_counter = 257
+8:30:30  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:30:30  Cycles =   327048
+8:30:32  Going to Motor End
+8:30:32  cycle_count = 298
+8:30:32  36 Time too long at 169. Average is 153 -overshoot_counter = 114
+8:30:32  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:30:32  Cycles =   327048
+8:30:35  Going to Hose End
+8:30:35  cycle_count = 298
+8:30:35  39 Time too long at 1. Average is 0 -overshoot_counter = 258
+8:30:35  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:30:35  Cycles =   327049
+8:30:37  Going to Motor End
+8:30:37  cycle_count = 299
+8:30:37  36 Time too long at 169. Average is 153 -overshoot_counter = 115
+8:30:37  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:30:37  Cycles =   327049
+8:30:40  Going to Hose End
+8:30:40  cycle_count = 299
+8:30:40  39 Time too long at 1. Average is 0 -overshoot_counter = 259
+8:30:40  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:30:40  Cycles =   327050
+8:30:42  Going to Motor End
+8:30:42  cycle_count = 300
+8:30:42  36 Time too long at 169. Average is 153 -overshoot_counter = 116
+8:30:42  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:30:42  Cycles =   327050
+8:30:45  Going to Hose End
+8:30:45  cycle_count = 300
+8:30:45  39 Time too long at 1. Average is 0 -overshoot_counter = 260
+8:30:45  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:30:45  Cycles =   327051
+8:30:47  Going to Motor End
+8:30:47  cycle_count = 301
+8:30:47  36 Time too long at 169. Average is 153 -overshoot_counter = 117
+8:30:47  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:30:47  Cycles =   327051
+8:30:50  Going to Hose End
+8:30:50  cycle_count = 301
+8:30:50  39 Time too long at 1. Average is 0 -overshoot_counter = 261
+8:30:50  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:30:50  Cycles =   327052
+8:30:52  Going to Motor End
+8:30:52  cycle_count = 302
+8:30:52  36 Time too long at 169. Average is 153 -overshoot_counter = 118
+8:30:52  DXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8:30:52  Cycles =   327052
+8;30;54;S;1511;1511
+8:30:55  In loop
